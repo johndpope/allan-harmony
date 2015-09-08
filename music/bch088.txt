@@ -1,0 +1,237 @@
+Choralname = bch088
+Anzahl Stimmen = 4
+Tonart = F-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		C 2	F 1	A 0	F 0	T
+
+				B 0		
+
+	1	C 2	F 1	C 1	A -1	T3
+
+				D 1	B -1	
+
+		C 2	E 1	C 1	C 0	D  7
+
+				B 0		
+
+		C 2	F 1	A 0	F -1	T
+
+		D 2				
+
+		Eb2	G 1	G 0	C 0	d
+
+				A 0		
+
+	2	D 2	F 1	B 0	D 0	S3
+
+					Eb0	
+
+		C 2	F 1	A 0	F 0	T
+
+			Eb1			
+
+		B 1	D 1	B 0	G 0	Sp
+
+
+
+2		C 2	C 1	G 0	E 0	D3 7
+
+		B 1				
+
+	3	A 1	C 1	F 0	F 0	T
+
+		G 1		G 0		
+
+		F 1	C 1	A 0	F -1	T
+
+		G 1		B 0		
+
+		A 1	F 1	C 1	F 0	T
+
+			A 1		E 0	
+
+		H 1	G 1	D 1	D 0	DD5
+
+			F 1			
+
+	4	C 2	E 1	G 0	C 0	D
+
+				C 1		
+		D 2	F 1			
+		D 2	G 1		G -1	DD
+
+				H 0		
+			F 1			
+		C 2	E 1	C 1	C 0	D
+
+
+
+3		C 2	F 1	A 0	F 0	T
+
+				B 0		
+
+	5	C 2	F 1	C 1	A -1	T3
+
+				D 1	B -1	
+
+		C 2	E 1	C 1	C 0	D  7
+
+				B 0		
+
+		C 2	F 1	A 0	F -1	T
+
+		D 2				
+
+		Eb2	G 1	G 0	C 0	d
+
+				A 0		
+
+	6	D 2	F 1	B 0	D 0	S3
+
+					Eb0	
+
+		C 2	F 1	A 0	F 0	T
+
+			Eb1			
+
+		B 1	D 1	B 0	G 0	Sp
+
+
+
+4		C 2	C 1	G 0	E 0	D3 7
+
+		B 1				
+
+	7	A 1	C 1	F 0	F 0	T
+
+		G 1		G 0		
+
+		F 1	C 1	A 0	F -1	T
+
+		G 1		B 0		
+
+		A 1	F 1	C 1	F 0	T
+
+			A 1		E 0	
+
+		H 1	G 1	D 1	D 0	DD5
+
+			F 1			
+
+	8	C 2	E 1	G 0	C 0	D
+
+				C 1		
+		D 2	F 1			
+		D 2	G 1		G -1	DD
+
+				H 0		
+			F 1			
+		C 2	E 1	C 1	C 0	D
+
+
+
+5		C 2	F 1	A 0	F 0	T
+
+			G 1		E 0	
+
+	9	F 2	A 1	A 0	D 0	Tp
+
+				H 0		
+
+		E 2	G 1	C 1	E 0	D3
+
+					F 0	
+
+		D 2	G 1	H 0	G 0	DD
+
+			F 1	A 0		
+
+		E 2	E 1	G 0	C 0	D
+
+			G 1		B -1	
+
+	10	F 2	C 1	F 0	A -1	T3
+
+		E 2	A 1	C 1	F -1	
+
+		D 2	D 1	H 0	G -1	DD
+
+			G 1			
+
+		C 2	E 1	C 1	C 0	D
+
+
+
+6		C 2	F 1	A 0	F 0	T
+
+			G 1	B 0		
+
+	11	F 2	A 1	C 1	F -1	T
+
+			B 1		G -1	
+
+		C 2	A 1	F 1	A -1	T3
+
+			G 1	E 1		
+
+		D 2	F 1	D 1	B -1	S
+
+					C 0	
+
+		A 1	F 1	D 1	D 0	Tp
+
+		B 1				
+
+	12	C 2	E 1	G 0	E 0	D3
+
+				A 0	F#0	
+
+		B 1	D 1	B 0	G 0	D5 7
+
+			E 1	C 1		
+
+		A 1	F#1	D 1	D 0	TP
+
+
+
+7		A 1	F 1	C 1	A -1	T3
+
+					B -1	
+
+	13	G 1	E 1	C 1	C 0	D
+
+		A 1				
+
+		B 1	D 1	F 0	D 0	S3
+
+				G 0	E 0	
+
+		A 1	C 1	A 0	F 0	T
+
+			D 1	B 0		
+
+		G 1	E 1	C 1	E 0	D3
+
+					F 0	
+
+	14	D 1	D 1	B 0	G 0	Sp
+
+				A 0		
+
+		E 1	C 1	G 0	C 0	D  7
+
+			B 0			
+
+		F 1	A 0	F 0	F -1	T
+
+
+
+						T
+
+
+

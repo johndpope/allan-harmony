@@ -1,0 +1,141 @@
+Choralname = bch274
+Anzahl Stimmen = 4
+Tonart = A-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		E 2	A 1	C 1	A -1	t
+
+					H -1	
+
+	1	A 1	E 1	C 1	C 0	t3
+
+					H -1	
+
+		H 1	E 1	H 0	A -1	D3
+
+					G#-1	
+
+		C 2	E 1	H 0	A -1	sP3
+
+			F 1	A 0		
+
+		C 2	G 1	G 0	E -1	tP3
+
+				C 1		
+
+	2	D 2	A 1	C 1	F -1	s3
+
+				H 0		
+				A 0		
+		D 2	G 1	H 0	G -1	dP
+
+
+
+		E 2	G 1	C 1	C -1	tP
+
+
+
+2		E 2	G 1	C 1	C 0	tP
+
+
+
+	3	E 2	A 1	C 1	F#-1	t
+
+
+
+		E 2	E 1	H 0	G#-1	D3
+
+
+
+		C 2	E 1	H 0	A -1	t
+
+					H -1	
+
+		C 2	E 1	A 0	C 0	t3
+
+					D 0	
+
+	4	H 1	E 1	A 0	E 0	%
+
+
+
+				G#0		D
+
+
+
+						D
+
+
+
+3		E 2	H 1	E 1	G#-1	D3
+
+
+
+	5	C 2	H 1	E 1	A -1	t
+
+			A 1			
+
+		H 1	G#1	E 1	E 0	D7 7
+
+					D 0	
+
+		C 2	A 1	E 1	C 0	t3
+
+			G 1			
+
+		A 1	F 1	D 1	D 0	s
+
+					C 0	
+
+	6	G#1	F 1	D 1	H -1	Vt3 7
+
+			E 1	H 0	E 0	
+
+		A 1	E 1	C 1	C 0	t3
+
+			F#1		A -1	
+
+		H 1	G#1	H 0	E 0	D
+
+
+
+4		E 2	A 1	A 0	C 0	t3
+
+
+
+	7	D 2	A 1	D 1	H -1	D5 7
+
+			G#1			
+
+		C 2	A 1	E 1	A -1	t
+
+
+
+		H 1	A 1	F 1	D 0	s
+
+				D 1		
+
+			G#1	H 0	E 0	D
+
+		H 1		E 1		
+				D 1		
+	8	A 1	E 1	C#1	A -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

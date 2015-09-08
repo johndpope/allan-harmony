@@ -1,0 +1,189 @@
+Choralname = bch374
+Anzahl Stimmen = 4
+Tonart = E-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		H 1	E 1	G 0	E 0	D5 7
+
+			D#1	A 0	F#0	
+
+	1	H 1	E 1	H 0	G 0	t3
+
+			H 0	E 1		
+
+		A 1	C#1		G 0	S7 7
+
+			D#1	A 0	F#0	
+
+		G 1	E 1	H 0	E 0	t
+
+			D#1		F#0	
+
+			E 1		G 0	t3
+
+					E 0	
+
+	2	F#1	E 1	H 0	H -1	D
+
+			D#1			
+
+2		G 1	E 1	H 0	E 0	t
+
+
+
+		A 1	E 1	A 0	F#0	D5 7
+
+			D#1	H 0		
+				C 1		
+		G 1	E 1	H 0	G 0	t3
+
+					E 0	
+
+	3	F#1	E 1	C#1	A#-1	DD3
+
+				F#0		
+
+		F#1	D#1	H 0	H -1	D  7
+
+				A 0		
+
+		E 1	H 0	G 0	E -1	t
+
+
+
+3		F#1	D#1	H 0	H -1	D
+
+
+
+	4	G 1	E 1	H 0	E 0	t
+
+				C 1		
+
+		A 1	D 1	H 0	F#0	dP3
+
+			C 1	A 0		
+
+		H 1	H 0	G 0	G 0	tP
+
+			D 1	H 0		
+
+			G 1	D 1	G -1	tP
+
+					H -1	
+
+	5	A 1	F#1	D 1	D 0	dP
+
+
+
+4		C 2	E 1	C 1	A 0	s
+
+				H 0	G 0	
+
+		C 2	D 1	A 0	F#0	dP3
+
+				F#0	D 0	
+
+		H 1	D 1	G 0	G 0	tP
+
+					G -1	
+
+	6	A 1	E 1	G 0	C 0	s3
+
+					A -1	
+
+		A 1	D 1	F#0	D 0	dP
+
+			C 1			
+
+		G 1	H 0	G 0	G -1	tP
+
+
+
+5		A 1	D 1	F#0	D 0	dP
+
+				G 0	E 0	
+
+	7	A 1	D 1	A 0	F#0	dP3
+
+			C#1		G 0	
+
+		A 1	D 1	A 0	F#0	dP3
+
+			E 1		E 0	
+
+		A 1	F#1	D 1	D 0	dP
+
+					E 0	
+
+		F#1	D 1	A 0	D 0	dP
+
+					C 0	
+
+	8	G 1	D 1	H 0	H -1	tP3
+
+			E 1		C 0	
+
+		A 1	F#1	C 1	H -1	%
+
+					A -1	
+
+		H 1	G 1	D 1	G -1	tP
+
+					A -1	
+
+			D 1	G 0	H -1	tP3
+
+					C 0	
+
+	9	A 1	D 1	G 0	D 0	dP
+
+				F#0		
+
+6		F#1	F#1	H 0	D#0	D3
+
+				A 0		
+
+		G 1	H 0	G 0	E 0	t
+
+			E 1			
+
+		A 1	D 1	D 1	F#0	dP3
+
+			C 1			
+
+	10	H 1	H 0	D 1	G 0	tP
+
+				F 1		
+
+		H 1	E 1	E 1	G#0	T3 7
+
+				D 1		
+
+		A 1	E 1	C 1	A 0	s
+
+			D#1			
+
+		G 1	E 1	C#1	A#0	DD3
+
+		F#1				
+
+	11	F#1	E 1	H 0	H 0	%
+
+
+
+			D#1		H -1	D  7
+
+				A 0		
+
+		E 1	H 0	G#0	E 0	T
+
+
+
+						T
+
+
+

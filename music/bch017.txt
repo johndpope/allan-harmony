@@ -1,0 +1,265 @@
+Choralname = bch017
+Anzahl Stimmen = 4
+Tonart = D-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	A 1	D 1	F#0	D 0	T
+
+
+
+		D 2	D 1	F#0	H -1	Tp
+
+				G 0		
+
+		A 1	D 1	A 0	F#-1	T3
+
+
+
+		H 1	D 1	G 0	G -1	S
+
+				F#0		
+
+	2	A 1	D 1	E 0	A -1	%
+
+				D 0		
+
+			C#1	E 0	A -1	D  7
+
+		G 1				
+
+		F#1	D 1	D 0	D -1	T
+
+
+
+		F#1	D 1	D 0	D -1	T
+
+
+
+2	3	A 1	D 1	F#0	D 0	T
+
+
+
+		A 1	D 1	F#0	D 0	T
+
+			C#1			
+
+		G 1	H 0	G 0	E 0	Sp
+
+			C#1			
+
+		F#1	D 1	A 0	F#0	T3
+
+
+
+	4	E 1	D 1	H 0	G 0	S
+
+					E 0	
+
+			C#1	A 0	A 0	D
+
+		D 1			A -1	
+				G 0		
+		D 1	D 1	F#0	D 0	T
+
+
+
+						T
+
+
+
+3	5	A 1	D 1	F#0	D 0	T
+
+
+
+		D 2	D 1	F#0	H -1	Tp
+
+				G 0		
+
+		A 1	D 1	A 0	F#-1	T3
+
+
+
+		H 1	D 1	G 0	G -1	S
+
+				F#0		
+
+	6	A 1	D 1	E 0	A -1	%
+
+				D 0		
+
+			C#1	E 0	A -1	D  7
+
+		G 1				
+
+		F#1	D 1	D 0	D -1	T
+
+
+
+		F#1	D 1	D 0	D -1	T
+
+
+
+4	7	A 1	D 1	F#0	D 0	T
+
+
+
+		A 1	D 1	F#0	D 0	T
+
+			C#1			
+
+		G 1	H 0	G 0	E 0	Sp
+
+			C#1			
+
+		F#1	D 1	A 0	F#0	T3
+
+
+
+	8	E 1	D 1	H 0	G 0	S
+
+					E 0	
+
+			C#1	A 0	A 0	D
+
+		D 1			A -1	
+				G 0		
+		D 1	D 1	F#0	D 0	T
+
+
+
+						T
+
+
+
+5	9	E 1	C#1	A 0	A -1	D
+
+
+
+		E 1	C#1	A 0	A -1	D
+
+
+
+		F#1	D 1	A 0	D 0	T
+
+		G#1				
+
+		A 1	C#1	A 0	F#0	Dp
+
+					E 0	
+
+	10	A 1	F#1	H 0	D 0	T
+
+
+
+			E 1	H 0	E 0	DD  7
+
+		G#1	D 1			
+
+		A 1	C#1	A 0	A -1	D
+
+
+
+		A 1	C#1	A 0	A -1	D
+
+
+
+6	11	H 1	E 1	G 0	E 0	Sp
+
+			F#1			
+
+			G 1		E 0	D5 7
+
+		C#2		A 0		
+
+		D 2	F#1	H 0	H -1	Tp
+
+					C#0	
+
+		D 2	F#1	H 0	D 0	Tp3
+
+					E 0	
+
+	12	C#2	F#1	H 0	F#0	%
+
+
+
+				A#0	F#0	DP
+
+		C#2	E 1			
+
+		H 1	D 1	H 0	H -1	Tp
+
+
+
+		H 1	D 1	H 0	H -1	Tp
+
+
+
+7	13	F#1	D 1	A 0	D 0	T
+
+
+
+		F#1	D 1	A 0	D 0	T
+
+
+
+		H 1	D 1	G 0	G -1	S
+
+				F#0		
+
+		A 1	C#1	E 0	A -1	D
+
+
+
+	14	A 1	D 1	D 0	H -1	T
+
+				F#0		
+
+		G#1	D 1	E 0	H -1	DD5 7
+
+				D 0		
+
+		A 1	C#1	E 0	A -1	D
+
+
+
+						D
+
+
+
+8	15	H 1	D 1	G 0	G -1	S
+
+
+
+		A 1	D 1	F#0	D 0	T
+
+			C#1			
+
+		G 1	H 0	G 0	E 0	Sp
+
+			C#1			
+
+		F#1	D 1	A 0	F#0	T3
+
+
+
+	16	E 1	D 1	H 0	G 0	S
+
+					E 0	
+
+			C#1	A 0	A 0	D
+
+		D 1			A -1	
+				G 0		
+		D 1	D 1	F#0	D 0	T
+
+
+
+						T
+
+
+

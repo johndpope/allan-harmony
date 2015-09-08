@@ -1,0 +1,205 @@
+Choralname = bch052
+Anzahl Stimmen = 4
+Tonart = C-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		G 1	Eb1	C 1	C 0	t
+
+			F 1			
+
+	1	G 1	G 1	D 1	H -1	D3 7
+
+			F 1			
+
+		G 1	Eb1		C 0	t
+
+				C 1		
+
+		B 1	F 1	B 0	D 0	dP3
+
+
+
+		G 1	F 1	B 0	Eb0	tP
+
+			Eb1			
+
+	2	B 1	G 1	B 0	Eb0	tP
+
+				C 1		
+
+		H 1	F 1	D 1	D 0	D5 7
+
+
+
+		C 2	Eb1	G 0	C 0	t
+
+
+
+2		D 2	G 1	D 1	H -1	D3
+
+
+
+	3	Eb2	G 1	C 1	C 0	t
+
+		D 2		D 1		
+
+		C 2	G 1	Eb1		t
+
+		D 2		D 1		
+
+		Eb2	G 1	C 1		t
+
+					Eb0	
+
+		D 2	G 1	H 0	G 0	D7 7
+
+					F 0	
+
+	4	C 2	G 1	C 1	Eb0	t3
+
+				H 0		
+
+		C 2	G 1	C 1	Ab0	s3
+
+			F 1			
+
+		H 1	G 1	D 1	G 0	D
+
+
+
+3		G 1	D 1	H 0	G 0	D7 7
+
+					F 0	
+
+	5	C 2	G 1	C 1	Eb0	t3
+
+		D 2			D 0	
+
+		Eb2	G 1	C 1	C 0	t
+
+
+
+		D 2	Ab1	C 1	F 0	D
+
+			G 1	H 0	G 0	
+
+		C 2	G 1	C 1	Ab0	s3
+
+			F 1			
+
+	6	H 1	G 1	D 1	G 0	D
+
+			Ab1			
+
+			G 1	G 0	G -1	D  7
+
+			F 1			
+
+		C 2	Eb1	G 0	C 0	t
+
+
+
+4		G 1	Eb1	C 1	C 0	t
+
+			F 1		D 0	
+
+	7	G 1	G 1	C 1	Eb0	t3
+
+				G 0		
+
+		A 1	F 1	C 1		S7 7
+
+					F 0	
+					Eb0	
+		B 1	F 1	D 1	D 0	dP3
+
+			G 1	C 1	Eb0	
+
+		Ab1	G 1	C 1	F 0	s
+
+			F 1	D 1		
+				C 1		
+	8	G 1	F 1	B 0	G 0	t
+
+			Eb1	C 1	Ab0	
+
+		F 1	Eb1	F 0	B 0	dP
+
+			D 1	B 0		
+				Ab0		
+		Eb1	Eb1	G 0	C 0	t
+
+
+
+5		Eb1	C 1	G 0	C 0	t
+
+				Ab0		
+
+	9	B 1	Eb1	B 0	G -1	tP3
+
+			F 1	Ab0	F -1	
+
+		B 1	G 1	B 0	Eb-1	tP
+
+				Db1		
+
+		C 2	Eb1	C 1	Ab-1	sP
+
+				B 0	G -1	
+
+		D 2	F 1	Ab0	F -1	%
+
+
+
+	10	Eb2	G 1	B 0	Eb-1	tP
+
+					G -1	
+
+		D 2	F 1	B 0	B -1	dP
+
+
+
+		Eb2	G 1	B 0	Eb0	tP
+
+
+
+6		Eb2	G 1	C 1	C 0	t
+
+			Ab1			
+
+	11	F 2	Ab1	D 1	C 0	D3 7
+
+			G 1		H -1	
+
+		Eb2	G 1	D 1	C 0	t
+
+				C 1		
+
+		D 2	F 1	C 1	D 0	Vt3 7
+
+			Ab1	H 0		
+
+		C 2	G 1	C 1	Eb0	t3
+
+			F 1	Ab0	F 0	
+
+	12	C 2	Eb1	G 0	G 0	t5
+
+			D 1			
+			C 1			
+		H 1	D 1		G -1	D
+
+			F 1			
+
+		C 2	F 1	G 0	C 0	T
+
+			E 1			
+
+						T
+
+
+

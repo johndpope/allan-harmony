@@ -1,0 +1,217 @@
+Choralname = bch247
+Anzahl Stimmen = 4
+Tonart = E-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	H 1	G#1	E 1	E 1	T
+
+			A 1	F#1		
+
+		H 1	G#1	E 1	E 0	T
+
+			F#1	D#1		
+
+		C#2	E 1	C#1	A 0	S
+
+					H 0	
+
+		C#2	F#1	D#1	A 0	Tp5
+
+			G#1	E 1	G#0	
+
+	2	D#2	A 1	F#1	F#0	D5 7
+
+			C#2	A 1		
+
+		D#2	H 1	G#1	H -1	D  7
+
+			A 1	F#1		
+
+		E 2	G#1	E 1	E 0	T
+
+
+
+						T
+
+
+
+2	3	F#2	H 1	D#1	H 0	D
+
+				E 1	C#1	
+
+		F#2	H 1	F#1	D#1	D3
+
+			A#1	D#1	H 0	
+
+		E 2	G#1	E 1	C#1	Tp
+
+				D#1	H 0	
+
+		E 2	F#1	C#1	A#0	DD3 7
+
+				A#0	F#0	
+
+	4	D#2	F#1	H 0	H 0	D
+
+			G#1		G#0	
+
+		C#2	G#1	H 0	E 0	T
+
+		D#2	E 1		C#0	
+		E 2				
+		C#2	F#1	H 0	F#0	%
+
+					E 0	
+
+				A#0	F#0	DD  7
+
+			E 1			
+
+	5	H 1	D#1	F#0	H -1	D
+
+
+
+						D
+
+
+
+3		H 1	E 1	G#0	E 0	T
+
+				A 0	F#0	
+
+		H 1	E 1	H 0	G#0	T3
+
+				G#0	E 0	
+
+	6	C#2	E 1	A 0	A 0	S
+
+				C#1	G#0	
+
+		C#2	A 1	F#1	F#0	Sp
+
+					E 0	
+
+		H 1	A 1	F#1	D#0	D3 7
+
+			G#1	C#1	E#0	
+
+		A 1	G#1	C#1	F#0	Sp
+
+			F#1			
+
+	7	G#1	E 1	C#1	C#0	Tp
+
+
+
+						Tp
+
+
+
+4		H 1	D#1	H 0	G#0	D5 7
+
+				A 0	F#0	
+
+		H 1	G#1	G#0	E 0	T
+
+			F#1		D#0	
+
+	8	A 1	E 1	G#0	C#0	S3
+
+			D#1	A 0	A -1	
+
+		A 1	E 1	G#0	H -1	Sp5
+
+			F#1	F#0	C#0	
+
+		G#1	G#1	H 0	D#0	Dp5
+
+			E 1		E 0	
+
+		F#1	E 1	C#1	G#0	Tp5
+
+		G#1			F#0	
+		A 1				
+	9	F#1	E 1	H 0	H 0	Sp3
+
+			C#1		A 0	
+
+			D#1		H 0	D  7
+
+				A 0		
+
+		E 1	H 0	G#0	E 0	T
+
+
+
+						T
+
+
+
+5	10	H 1	E 1	G#0	E 0	T
+
+				A 0	F#0	
+
+		H 1	E 1	H 0	G#0	T3
+
+				G#0	E 0	
+
+		C#2	E 1	A 0	A 0	S
+
+					H 0	
+
+		C#2	F#1	C#1	A 0	Sp3
+
+			G#1		G#0	
+
+	11	D#2	A 1	C#1	F#0	Sp
+
+			F#1		D#0	
+
+		D#2	G#1		G#0	DP
+
+				H#0		
+
+		E 2	G#1	C#1	C#0	Tp
+
+
+
+						Tp
+
+
+
+6	12	H 1	G#1	E 1	G#0	T3
+
+			A 1		F#0	
+
+		H 1	H 1	E 1	G#0	T3
+
+		C#2	G#1		E 0	
+		D 2				
+		C#2	A 1	E 1	A 0	S
+
+		H 1	D 1	G#1	H 0	
+
+		A 1	E 1	C#1	C#1	S3
+
+		G#1			H 0	
+
+	13	F#1	E 1	C#1	A 0	S
+
+		G#1		A 0	F#0	
+		A 1				
+		F#1	D#1	F#0	H 0	D
+
+				H 0	H -1	
+
+		E 1	H 0	G#0	E 0	T
+
+
+
+						T
+
+
+

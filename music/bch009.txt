@@ -1,0 +1,201 @@
+Choralname = bch009
+Anzahl Stimmen = 4
+Tonart = C-dur
+Takt = 3/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	C 2	E 1	G 0	C 0	T
+
+
+
+		C 2	G 1	C 1	E 0	T3
+
+
+
+		C 2	G 1	E 1	C 0	T
+
+
+
+	2	A 1	F 1	C 1	F 0	S
+
+
+
+		H 1	G 1	D 1		D7 7
+
+
+
+		C 2	G 1	E 1	E 0	T3
+
+
+
+	3	D 2	A 1	D 1	F#0	DD3
+
+
+
+		C 2				DD3 7
+
+
+
+		H 1	G 1	D 1	G 0	D
+
+
+
+	4	A 1	F#1	D 1	D 0	DD
+
+
+
+						DD
+
+
+
+						DD
+
+
+
+2	5	A 1	F#1	D 1	D 0	DD
+
+
+
+		H 1	G 1	D 1	G 0	D
+
+
+
+		C 2	G 1	E 1	E 0	T3
+
+
+
+	6	D 2	G 1	D 1	H -1	D3
+
+
+
+						D3
+
+
+
+		C 2	G 1	E 1	C 0	T
+
+
+
+	7	H 1	G 1	D 1	G 0	D
+
+
+
+		A 1	G 1	D 1	D 0	%
+
+
+
+			F#1			DD  7
+
+				C 1		
+
+	8	G 1	G 1	H 0	G -1	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+3	9	E 2	G 1	C 1	C 1	T
+
+
+
+		E 2	E 1	H 0	G#0	DP3
+
+
+
+		E 2	G#1	E 1	E 0	DP
+
+
+
+	10	C 2	A 1	E 1	A 0	Tp
+
+
+
+		D 2	H 1	F 1		Sp5
+
+
+
+		E 2	C#2	G 1	A -1	TP  7
+
+
+
+	11	F 2	D 2	F 1	D 0	Sp
+
+
+
+		E 2	C 2	G 1	E 0	T3
+
+
+
+				C 1	F 0	%
+
+
+
+	12	D 2	G 1	H 0	G 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+4	13	C 2	G 1	C 1	E 0	T3
+
+
+
+		D 2	H 1	F 0	D 0	D5 7
+
+
+
+		E 2	C 2	G 0	C 0	T
+
+
+
+	14	D 2	C 2	A 0	F 0	S
+
+
+
+			H 1	H 0	G 0	D
+
+
+
+		C 2	E 1	C 1	A 0	Tp
+
+
+
+	15	C 2	A 1	D 1	F#0	DD3 7
+
+
+
+		H 1	G 1	D 1	G 0	D
+
+
+
+					G -1	D
+
+
+
+	16	C 2	G 1	E 1	C 0	T
+
+
+
+						T
+
+
+
+						T
+
+
+

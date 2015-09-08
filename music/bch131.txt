@@ -1,0 +1,205 @@
+Choralname = bch131
+Anzahl Stimmen = 4
+Tonart = C-dur
+Takt = 3/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		C 2	G 1	C 1	C 0	T
+
+
+
+	1	C 2	G 1	E 1	C 0	T
+
+					D 0	
+
+					E 0	T3
+
+					F 0	
+
+		H 1	G 1	D 1	G 0	D  7
+
+			F 1			
+
+	2	A 1	E 1	C 1	A -1	Tp
+
+					H -1	
+
+					C 0	Tp3
+
+			F 1		D 0	
+
+		G 1	G 1	C 1	E 0	T3
+
+
+
+	3	C 2	E 1	C 1	A 0	Tp
+
+
+
+			C 2	G 0	E 0	T3
+
+
+
+		D 2	H 1	G 1	G 0	D
+
+
+
+	4	E 2	G 1	E 1	C 0	T
+
+
+
+						T
+
+
+
+2		E 2	G 1	C 1	C 0	T
+
+
+
+	5	E 2	G 1	C 1	C 0	T
+
+					D 0	
+
+					E 0	T3
+
+					F 0	
+
+		E 2	G 1	H 0	G 0	Dp3
+
+				A 0	A 0	
+
+	6	D 2	F 1	H 0	G#0	VTp  7
+
+					F#0	
+
+			E 1		G#0	DP3
+
+					E 0	
+
+		C 2	E 1	C 1	A 0	Tp
+
+					G 0	
+
+	7	F 2	A 1	C 1	F 0	S
+
+
+
+			G 1		E 0	T3
+
+			F 1	H 0	D 0	
+
+		E 2	C 2	G 1	C 0	T
+
+
+
+	8	D 2	H 1	G 1	G 0	D
+
+
+
+						D
+
+
+
+3		C 2	E 1	C 1	A 0	Tp
+
+			F#1			
+
+	9	D 2	G 1	H 0	G 0	D7 7
+
+					F 0	
+
+					E 0	D5
+
+					D 0	
+
+		E 2	G 1	C 1	C 0	T
+
+					D 0	
+
+	10	D 2	G#1	H 0	E 0	DP
+
+					D 0	
+
+					C 0	VTp3
+
+					H -1	
+
+		C 2	A 1	C 1	A -1	Tp
+
+
+
+	11	A 1	A 1	C 1	F 0	S
+
+
+
+		H 1	G 1	H 0	D 0	D5
+
+			F 1	C 1		
+
+			G 1	D 1	G 0	D
+
+
+
+	12	C 2	G 1	E 1	C 0	T
+
+
+
+						T
+
+
+
+4		G 2	G 1	D 1	H -1	D3
+
+
+
+	13	E 2	G 1	C 1	C 0	T
+
+					H -1	
+
+				G 0	C 0	T
+
+		D 2	F 1		D 0	
+
+		C 2	G 1	C 1	E 0	T3
+
+					C 0	
+
+	14	D 2	A 1	C 1	F 0	S
+
+					E 0	
+
+			G 1	H 0	F 0	D7 7
+
+		E 2			G 0	
+
+		F 2	C 2	A 0	A 0	S3
+
+					H 0	
+
+	15	E 2	C 2	G 0	C 1	T
+
+
+
+		D 2	H 1	G 1	F 0	D7 7
+
+			A 1			
+
+			G 1			D7 7
+
+				F 1		
+
+	16	C 2	G 1	E 1	C 0	T
+
+
+
+						T
+
+
+
+						T
+
+
+

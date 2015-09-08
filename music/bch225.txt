@@ -1,0 +1,649 @@
+Choralname = bch225
+Anzahl Stimmen = 4
+Tonart = E-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	G 1	E 1	H 0	E 0	t
+
+			F 1			
+
+			G 1			t
+
+				C 1	D 0	
+				D 1		
+		A 1	G 1	E 1	C 0	s3
+
+			F#1	A 0		
+			E 1			
+			F#1	D 1	D 0	dP
+
+
+
+	2	H 1	G 1	D 1	G -1	tP
+
+
+
+						tP
+
+
+
+2		A 1	F 1	D 1	D 0	%
+
+
+
+		C 2	E 1	C 1	A -1	s
+
+				D 1	H -1	
+
+	3	C 2	A 1	E 1	C 0	s3
+
+					D 0	
+
+		H 1	G 1		E 0	t
+
+					D 0	
+
+		A 1	G 1	E 1	C 0	s3
+
+			F#1	C 1	A -1	
+			E 1			
+		A 1	F#1	A 0	D 0	dP
+
+				D 1		
+				C 1		
+	4	G 1	D 1	H 0	G -1	tP
+
+
+
+						tP
+
+
+
+3		A 1	F 1	D 1	D 0	s5
+
+			E 1	C 1	E 0	
+				A#0		
+		A 1	D 1	A 0	F 0	%
+
+			C#1			
+
+	5	G 1	D 1	A#0	F 0	%
+
+			C#1		E 0	
+
+		F 1	D 1	A 0	F 0	%
+
+				D 1	A#0	
+
+		E 1	D 1	A#0	G 0	S5 7
+
+			C#1	G 0	E 0	
+			H 0			
+		E 1	C#1	E 0	A 0	S
+
+				A 0	A -1	
+				G 0		
+	6	D 1	A 0	F 0	D 0	%
+
+
+
+						%
+
+
+
+4		D 1	D 1	F 0	D 0	%
+
+
+
+		A 1	E 1	E 0		S3
+
+				A 0	C#0	
+
+	7	A 1	F 1	A 0	D 0	%
+			E 1			
+			D 1	D 1	F 0	
+				C 1		
+		G 1		H 0		sP3
+
+			E 1	C 1	E 0	
+			D 1	H 0		
+		A 1	C 1	A 0	F 0	%
+
+			F 1	C 1	A 0	
+
+		H 1		D 1		T3
+
+			E 1	C 1	G#0	
+				H 0		
+	8	C 2	E 1	A 0	A 0	s
+			F#1			
+			G 1	G 0	E 0	
+				A 0		
+		H 1		H 0		t
+
+			G 1	C 1	D 0	
+				D 1		
+		A 1	G 1	E 1	C 0	s3
+
+			F#1	C 1	A -1	
+			E 1			
+			F#1	A 0	D 0	dP
+
+				D 1		
+
+	9	G 1	D 1	H 0	G -1	tP
+
+
+
+						tP
+
+
+
+5		G 1	E 1	C 1	C 0	sP
+
+
+
+		F 1	D 1		D 0	%
+
+		G 1		A#0	E 0	
+
+	10	A 1	C 1	A 0	F 0	%
+
+			D 1	H 0		
+
+		G 1	E 1	C 1	C 0	sP
+
+				A#0		
+
+		G 1	E 1	A 0	C#0	S3 7
+
+				A#0		
+
+		F 1	D 1		D 0	%
+
+				A 0		
+
+	11	E 1	C 1	A 0	E 0	s5
+
+
+
+			H 0	G#0		T
+
+			A 0	F#0		
+
+			H 0	G#0		T
+
+
+
+						T
+
+
+
+6	12	E 1	H 0	G 0	E 0	t
+
+					D 0	
+
+			C 1	A 0	C 0	s3
+
+			H 0	G 0		
+
+		D 1	A 0	F#0		dP
+
+
+
+			H 0	G 0	H -1	tP3
+
+			C 1		A -1	
+
+	13	G 1	D 1	G 0	H -1	tP3
+
+			F 1	D 1		
+
+			E 1	C 1	E 0	sP3
+
+			D 1	H 0		
+
+		A 1	C 1	A 0		s5
+
+			D 1			
+			E 1			
+		H 1	F 1		D 0	tP5
+
+				G 0		
+				F 0		
+	14	C 2	E 1	G 0	E 0	sP3
+			F 1			
+			G 1	C 1		
+				A#0		
+		C 2		A 0	F 0	%
+
+			F 1			
+
+		C 2	F 1	G 0	C 0	sP
+
+			E 1			
+			D 1			
+			E 1			sP
+
+
+
+7	15	C 2	E 1	A 0	A -1	s
+			F#1			
+			G 1			
+
+		C 2		A 0	D 0	dP
+
+			F#1			
+
+		H 1		H 0	G -1	t3
+
+			E 1	G 0	G 0	
+			D 1			
+		A 1	C#1	E 1		S7 7
+			H 0			
+			A 0	D 1	F 0	
+				C 1		
+	16	G 1	D 1	H 0	F 0	tP
+
+			C 1	D 1	E 0	
+				C 1		
+		A 1		A 0	F 0	dP3
+
+			A 1	D 1	F#0	
+				C 1		
+		H 1		H 0	G 0	%
+
+			G 1	C 1	H -1	
+					C 0	
+		H 1	F#1	D 1	D 0	d3
+			E 1	C 1		
+			F#1	H 0	D#0	
+				A 0		
+	17	H 1	E 1	G 0	E 0	t
+
+
+
+						t
+
+
+
+8		E 1	C 1	G 0	E 0	sP3
+
+					C 0	
+
+		D 1		G 0	G 0	tP
+
+			H 0		F 0	
+
+	18	G 1	C 1	G 0	E 0	sP3
+
+			D 1			
+			E 1			
+		A 1	F 1	C 1		s5
+			E 1			
+		H 1	F 1	D 1	D 0	
+
+		C 2	E 1	G 0	C 0	sP
+
+					H -1	
+
+		C 2	F 1	A 0	A -1	%
+
+					H -1	
+
+	19	C 2	F 1	A 0	C 0	sP
+
+			E 1	G 0		
+			D 1	F 0		
+			E 1	G 0		sP
+
+
+
+9		C 2	E 1	C 1	A -1	s
+
+			A 1	D 1	H -1	
+			G#1			
+		C 2	A 1	E 1	C 0	s3
+
+					D 0	
+
+	20	H 1	A 1	E 1	E 0	tP3
+
+			G 1	D 1	H -1	
+
+		A 1		E 1	C 0	dP
+
+			F#1	D 1	D 0	
+				C 1		
+		G 1	D 1	H 0	G -1	tP
+
+
+
+10		A 1	F 1	D 1	D 0	%
+
+			G 1		E 0	
+
+	21	A 1	A 1	D 1	F 0	S  7
+
+			G 1	C#1	A -1	
+			F 1			
+		G 1	F 1	D 1	H -1	S3 7
+
+			E 1	A 0	C#0	
+
+		F 1		A 0	D 0	%
+
+			D 1		F -1	
+
+		E 1		A#0	G -1	S
+
+			C#1	A 0	A -1	
+				G 0		
+	22	D 1	A 0	F 0	D -1	%
+
+
+
+						%
+
+
+
+11		D 1	A 0	F 0	D 0	%
+
+				G 0	E 0	
+
+		A 1	D 1	A 0	F 0	%
+			E 1			
+			F 1	D 1	D 0	
+
+	23	A 1	F 1	D 1	A#-1	%
+
+				H 0	H -1	
+
+		G 1		G 0	C 0	sP
+
+			E 1	C 1		
+				H 0		
+		A 1	E 1	A 0	C 0	s3
+			D 1			
+			E 1		C#0	
+			G 1			
+		H 1	F 1		D 0	D3 7
+			E 1			
+			F#1	G 0	D#0	
+			A 1	F#0		
+	24	C 2	G 1	E 0	E 0	sP3
+
+			D 1	A 0	F#0	
+
+		H 1	D 1	H 0	G 0	tP
+
+			G 1	E 1	E 0	
+
+		A 1			C 0	s3
+
+			F#1	C 1	A -1	
+			E 1			
+			F#1	A 0	D 0	dP
+
+				D 1		
+				C 1		
+	25	G 1	D 1	H 0	G -1	tP
+
+
+
+						tP
+
+
+
+12		G 1	E 1	C 1	C 0	sP
+
+					A#-1	
+
+		F 1	F 1		A -1	%
+
+		G 1	E 1	A#0	G -1	
+
+	26	A 1	F 1	C 1	F -1	%
+				A#0		
+				C 1	A -1	
+
+		G 1		D 1	A#-1	t5
+
+			E 1	G 0	H -1	
+			D 1			
+		G 1	E 1	C 1	C 0	sP
+
+				A#0	C#0	
+
+		F 1		A 0	D 0	%
+
+			D 1	H 0		
+			C 1	A 0		
+	27	E 1	H 0	G#0	D 0	T7 7
+
+			D 1		C 0	
+					H -1	
+			C 1	A 0	C 0	s3
+
+					D 0	
+
+					E 0	s5
+
+
+
+			H 0	G#0		T
+
+
+
+13	28	H 1	G 1	E 1	E -1	t
+
+
+
+					E 0	t
+
+
+
+		C 2	G 1	E 1		sP3
+
+
+
+					D 0	sP
+
+					C 0	
+
+	29	D 2	G 1	H 0	G 0	tP
+
+
+
+						tP
+
+
+
+						tP
+
+
+
+14		H 1	G 1	D 1	G -1	tP
+
+					A -1	
+
+	30	D 2	G 1	D 1	H -1	tP3
+
+
+
+		C 2		E 1	E -1	sP3
+
+			A 1	D 1	F#-1	
+
+		H 1		D 1	G -1	tP3
+
+			G 1		H -1	
+
+		A 1		E 1	C 0	dP
+
+			F#1	D 1	D 0	
+				C 1		
+	31	G 1	D 1	H 0	G -1	tP
+
+
+
+						tP
+
+
+
+15		H 1	G 1	E 1	E -1	t
+
+					E 0	
+
+		C 2	A 1	E 1	D 0	s3
+
+					C 0	
+
+	32	D 2	A 1	D 1	H -1	tP3
+
+			G 1		H 0	
+			F#1			
+		H 1	G 1			tP3
+
+		C 2		C 1	A 0	
+
+		D 2	G 1	H 0	G 0	tP
+
+					F#0	
+
+		C 2			E 0	t
+
+			F#1	A 0		
+
+	33	H 1	H 0	A 0	E 0	tP3
+			C 1			
+			D 1	G 0	H -1	
+
+		A 1	E 1		C 0	dP
+
+			D 1	F#0	D 0	
+			C 1			
+		G 1	H 0	G 0	G -1	tP
+
+
+
+16		A 1	D 1	F 0	D 0	%
+
+				G 0	E 0	
+
+	34	A 1	D 1	A 0	F 0	Vt3 7
+
+			D#1	C 1	F#0	
+
+		G 1	D 1		G 0	%
+
+			C#1	A#0		
+
+		F 1	D 1	A#0	G 0	%
+
+				H 0	G#0	
+
+		E 1		A 0	A 0	S
+
+			C#1	A 0	A -1	
+				G 0		
+	35	D 1	A 0	F#0	D 0	dP
+
+
+
+						dP
+
+
+
+17		D 1	D 1	H 0	G -1	tP
+
+					G 0	
+
+		A 1	E 1	C#1		S7 7
+
+					F#0	
+					E 0	
+	36	A 1	A 0	D 1	F#0	dP3
+
+			F#1		H 0	
+
+		G 1			E 0	sP3
+
+			E 1	C 1		
+				H 0		
+		A 1	F#1	C 1	E 0	s5
+
+				F#0	D#0	
+					C#0	
+		H 1		F#0	D#0	D3
+
+			E 1	G 0	H -1	
+			D#1	A 0		
+	37	C 2	E 1	G 0	E 0	sP3
+
+			D 1	A 0	F#0	
+
+		H 1			G 0	t
+
+			G 1	G 0	E 0	
+
+		A 1		E 1	C 0	s3
+				D 1		
+			F#1	C 1	A -1	
+			E 1			
+			F#1		D 0	dP
+
+				H 0		
+				A 0		
+	38	G 1	D 1	H 0	G -1	tP
+
+
+
+						tP
+
+
+
+18		G 1	D 1	A 0	G 0	%
+
+			E 1	A#0	C#0	
+
+		F 1	D 1	A 0	D 0	%
+
+		G 1	E 1	G 0		
+
+	39	A 1	F 1	F 0	D 0	s3
+
+			E 1		C 0	
+
+		G 1	D 1		H -1	tP3
+
+			G 1	E 0	A#-1	
+				D 0		
+		G 1	C#1	E 0	A -1	S  7
+
+			A 0	F 0		
+				G 0		
+		F 1	D 1	A 0		%
+
+				H 0	G#-1	
+
+	40	E 1	C#1	H 0	A -1	S
+
+				A 0	H -1	
+				G#0		
+			C 1	A 0	C 0	s3
+
+					D 0	
+
+			H 0		E 0	T
+
+				G#0		
+				F#0		
+				G#0		T
+
+
+

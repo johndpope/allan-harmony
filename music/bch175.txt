@@ -1,0 +1,253 @@
+Choralname = bch175
+Anzahl Stimmen = 4
+Tonart = C-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		G 1	C 1	E 0	C 0	T
+
+				F 0		
+
+	1	E 1	C 1	G 0	B -1	T
+
+
+
+		F#1	C 1	A 0	A -1	DD5 7
+
+
+
+		G 1	H 0	D 0	G -1	D
+
+
+
+2		G 1	D 1	G 0	H -1	D3
+
+
+
+	2	E 1	D 1	G 0	C 0	T
+
+			C 1			
+
+		D 1		G 0	G -1	D
+
+			H 0			
+				F 0		
+		C 1	G 0	E 0	C -1	T
+
+
+
+3		C 1	G 0	E 0	C 0	T
+
+
+
+	3	G 1	D 1	G 0	H -1	D3
+
+
+
+		G 1	E 1	C 1	C 0	T
+
+					H -1	
+
+		A 1	E 1	C 1	A -1	Tp
+
+			F#1			
+
+		H 1	G 1	D 1	G -1	D
+
+
+
+	4	C 2	G 1	C 1	E 0	T3
+
+			F#1			
+
+		H 1	G 1	D 1	D 0	D5
+
+
+
+		A 1	G 1	E 1	C 0	T
+
+
+
+		A 1	G 1	D 1	D 0	DD
+
+			F#1			
+				C 1		
+	5	G 1	D 1	H 0	G -1	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+4		G 1	E 1	C 1	E 0	T3
+
+
+
+	6	A 1	E 1	C 1	F 0	S
+
+			D 1			
+
+		H 1	D 1	H 0	G#-1	DP3
+
+			E 1			
+
+		C 2	E 1	A 0	A -1	Tp
+
+
+
+5		G 1	C 1	E 0	C 0	T
+
+
+
+	7	A 1	C 1	F 0	F 0	S
+
+			H 0			
+
+		G 1	C 1	G 0		TP5 7
+
+			C#1		E 0	
+
+		F 1	D 1	A 0	D 0	Sp
+
+			C#1		E 0	
+
+		F 1	D 1	A 0	F 0	Sp3
+
+					D 0	
+
+	8	E 1	D 1	A 0	A 0	%
+
+
+
+			C#1			TP
+
+
+
+						TP
+
+
+
+6		C 2	G 1	C 1	E 0	T3
+
+
+
+	9	A 1	G 1	C 1	F 0	S
+
+			F 1		E 0	
+			E 1			
+		H 1	F 1	D 1	D 0	D5 7
+
+
+
+		C 2	E 1	G 0	C 0	T
+
+
+
+7		A 1	F 1	D 1	D 0	Sp
+
+				C 1		
+
+	10	G 1	E 1	B 0	D 0	d5
+
+					C#0	
+
+		F 1	E 1	A 0	D 0	Sp
+
+			D 1			
+
+		E 1	D 1	A 0	A -1	TP
+
+			C#1			
+
+8		G 1	D 1	G 0	H -1	D3
+
+
+
+	11	E 1	E 1	G 0	C#0	TP3
+
+				A 0		
+
+		F#1	H 0		Eb0	%
+
+				G 0		
+				F#0		
+		G 1	H 0	E 0	E 0	Dp
+
+
+
+9		C 2	G 1	E 1	E 0	DD3 7
+
+			A 1	D 1	F#0	
+
+	12	H 1	A 1	D 1	G 0	D
+
+			G 1			
+
+		A 1		D 1	D 0	DD
+
+			F#1			
+				C 1		
+		G 1	D 1	H 0	G -1	D
+
+
+
+10		G 1	D 1	G 0	H -1	D3
+
+
+
+	13	E 1	C 1	G 0	C 0	T
+
+		F 1			D 0	
+
+		G 1	C 1	C 1	E 0	T3
+
+				B 0	C 0	
+
+		A 1	C 1	A 0	F 0	S
+
+			F 1			
+				H 0		
+		G 1		C 1	C 0	T
+
+			E 1			
+				B 0		
+	14	F 1	D 1	A 0	C 0	D3 7
+
+				G 0	H -1	
+
+		E 1		G 0	C 0	T
+
+			C 1			
+
+		D 1	C 1	A 0	F -1	S
+
+			H 0	D 0		
+			A 0			
+		D 1	H 0	G 0	G -1	D  7
+
+				F 0		
+
+	15	C 1	G 0	E 0	C -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

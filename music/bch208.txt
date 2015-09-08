@@ -1,0 +1,233 @@
+Choralname = bch208
+Anzahl Stimmen = 4
+Tonart = C-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	G 1	E 1	C 1	C 0	T
+
+
+
+		E 1	C 1	G 0	C 0	T
+
+			D 1		H -1	
+
+		A 1	E 1	C 1	A -1	Tp
+
+
+
+		H 1	E 1	H 0	G#-1	DP3
+
+
+
+	2	C 2	E 1	A 0	A -1	Tp
+
+					H -1	
+
+		C 2	A 1	E 1	C 0	Tp3
+
+					D 0	
+
+		H 1	A 1	E 1	E 0	%
+
+
+
+			G#1			DP
+
+
+
+2	3	A 1	A 1	C 1	F 0	S
+
+		H 1				
+
+		C 2	G 1	C 1	E 0	T3
+
+			E 1	G 0		
+
+		G 1	D 1	G 0	H -1	D3
+
+				H 0	G -1	
+
+		E 1	D 1	G 0	C 0	T
+
+			G 0	E 0		
+
+	4	F 1	C 1	A 0	A -1	D3 7
+
+			D 1	G 0	H -1	
+
+		E 1	D 1	G 0	C 0	T
+
+			C 1			
+
+		D 1	C 1	A 0	F -1	S
+
+
+
+			H 0	G 0	G -1	D  7
+
+				F 0		
+
+	5	C 1	G 0	E 0	C -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+
+3	6	G 1	E 1	C 1	C 0	T
+
+
+
+		E 1	C 1	G 0	C 0	T
+
+			D 1		H -1	
+
+		A 1	E 1	C 1	A -1	Tp
+
+
+
+		H 1	E 1	H 0	G#-1	DP3
+
+
+
+	7	C 2	E 1	A 0	A -1	Tp
+
+					H -1	
+
+		C 2	A 1	E 1	C 0	Tp3
+
+					D 0	
+
+		H 1	A 1	E 1	E 0	%
+
+
+
+			G#1			DP
+
+
+
+4	8	A 1	A 1	C 1	F 0	S
+
+		H 1				
+
+		C 2	G 1	C 1	E 0	T3
+
+			E 1	G 0		
+
+		G 1	D 1	G 0	H -1	D3
+
+				H 0	G -1	
+
+		E 1	D 1	G 0	C 0	T
+
+			G 0	E 0		
+
+	9	F 1	C 1	H 0	A -1	S3
+
+			D 1	A 0	H -1	
+
+		E 1	D 1	G 0	C 0	T
+
+			C 1			
+
+		D 1	C 1	A 0	F -1	S
+
+
+
+			H 0	G 0	G -1	D  7
+
+				F 0		
+
+	10	C 1	G 0	E 0	C -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+
+5	11	E 1	C 1	G 0	C 0	T
+
+					C -1	
+
+		F#1	E 1	A 0	C 0	Tp3
+
+
+
+		G#1	D 1	H 0	H -1	VTp3 7
+
+			F 1	D 1		
+
+		A 1	E 1	C 1	C 0	Tp3
+
+			C 1	A 0	F 0	
+
+	12	H 1	F 1	A 0	D 0	Sp
+
+			D 1		H -1	
+
+		H 1	H 0		E 0	DP
+
+			E 1	G#0		
+			D 1			
+		A 1	C 1	A 0	A -1	Tp
+
+
+
+						Tp
+
+
+
+6	13	H 1	G 1	D 1	G 0	D7 7
+
+					F 0	
+
+		C 2	G 1	E 1	E 0	T3
+
+					D 0	
+
+		D 2	G 1	D 1	C 0	D3
+
+					H -1	
+
+		E 2	G 1	C 1	C 0	T
+
+					E 0	
+
+	14	D 2	A 1	C 1	F 0	S
+
+			F 1		D 0	
+
+			D 1	H 0	G 0	D
+
+		C 2	G 1			
+			F 1			
+		C 2	E 1	C 1	C 0	T
+
+
+
+						T
+
+
+

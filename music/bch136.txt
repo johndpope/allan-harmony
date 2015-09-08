@@ -1,0 +1,233 @@
+Choralname = bch136
+Anzahl Stimmen = 4
+Tonart = Eb-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	Eb1	B 0	G 0	Eb0	T
+
+
+
+		Eb1	B 0	G 0		T
+
+				Ab0	F 0	
+
+		B 1	Eb1	B 0	G 0	T3
+
+				Eb1		
+
+		B 1	G 1		Eb0	T
+
+			F 1	Db1		
+
+	2	C 2	Eb1	C 1	Ab0	S
+
+				B 0	G 0	
+
+		D 2	F 1	Ab0	F 0	D5 7
+
+
+
+		Eb2	G 1	B 0	Eb0	T
+
+
+
+						T
+
+
+
+2	3	D 2	F 1	B 0	B 0	D7 7
+
+					Ab0	
+
+			B 1	B 0	G 0	Dp
+
+		Eb2				
+
+		F 2	B 1	B 0	D 0	D3
+
+			A 1			
+
+		B 1	G 1	B 0	Eb0	T
+
+					D 0	
+
+	4	Eb2	G 1	B 0	C 0	T
+
+			F 1	Ab0	F 0	
+
+		D 2	F 1	B 0	B -1	D
+
+					D 0	
+
+		C 2	G 1		Eb0	T
+
+					C 0	
+
+			F 1	Ab0	F 0	Sp
+
+			Eb1			
+
+	5	B 1	D 1	F 0	B -1	D
+
+
+
+						D
+
+
+
+3		Eb2	G 1	B 0	Eb-1	T
+
+					F -1	
+
+		Eb2	G 1	B 0	G -1	T3
+
+				C 1	Ab-1	
+
+	6	B 1	F 1	D 1	B -1	D
+
+					C 0	
+
+		B 1	F 1	D 1	D 0	D3
+
+			G 1	C 1	Eb0	
+
+		Ab1	G 1	C 1	F 0	S5
+
+			C 1		Eb0	
+
+		Ab1	F 1	B 0	D 0	D3 7
+			Eb1			
+			D 1		B -1	
+
+	7	G 1	Eb1	B 0	Eb0	T
+
+
+
+						T
+
+
+
+4		B 1	F 1	D 1	B 0	D
+
+				C 1	Ab0	
+
+		B 1	Eb1	B 0	G 0	T3
+
+					F 0	
+
+	8	Ab1	F 1	B 0	Eb0	D3 7
+
+					D 0	
+
+		G 1	F 1	B 0	Eb0	T
+
+			Eb1			
+
+		F 1	Eb1	C 1	Ab-1	S
+
+				F 0		
+
+			D 1	B 0	B -1	D  7
+
+				Ab0		
+
+	9	Eb1	B 0	G 0	Eb-1	T
+
+
+
+						T
+
+
+
+5		F 1	D 1	B 0	B 0	D7 7
+
+					Ab0	
+
+		F 1	D 1	B 0	G 0	D
+
+				Ab0	F 0	
+
+	10	G 1	Eb1	B 0	Eb0	T
+
+		A 1		C 1		
+
+		B 1	F 1	D 1	D 0	D3
+
+			G 1		Eb0	
+
+		B 1	F 1	C 1	F 0	D5
+
+				D 1		
+
+		A 1	F 1	Eb1	F 0	DD  7
+
+
+
+	11	B 1	F 1	D 1	B -1	D
+
+
+
+						D
+
+
+
+6		C 2	F 1	C 1	Ab0	Sp3
+
+			Ab1	F 1		
+
+		D 2	Ab1	D 1	H -1	DP3
+
+			G 1			
+
+	12	Eb2	G 1	C 1	C 0	Tp
+
+
+
+						Tp
+
+
+
+7		B 1	F 1	F 1	D 0	D3 7
+
+			Ab1			
+
+		B 1	Ab1	F 1	Eb0	T
+
+			G 1	Eb1		
+
+	13	Ab1	F 1	Eb1	F 0	D5 7
+
+				D 1		
+				C 1		
+		G 1		B 0	G 0	T3
+
+			Eb1			
+
+		F 1	Eb1	C 1	Ab0	S
+
+			D 1			
+			C 1			
+			D 1	B 0	B 0	D  7
+
+				Ab0	B -1	
+
+	14	Eb1	B 0	G 0	Eb0	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

@@ -1,0 +1,269 @@
+Choralname = bch177
+Anzahl Stimmen = 4
+Tonart = A-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		A#1	E#1	D 1	A#0	T
+
+					A 0	
+
+	1	A#1	G 1	D 1	G 0	%
+
+				D#1		
+
+		A#1	G#1	E#1	D 0	%
+
+
+
+		A#1	G 1	D#1	D#0	%
+
+				D 1		
+
+		C 2	G 1	C 1	E 0	%
+
+
+
+	2	G#1	G 1	C 1	E#0	%
+
+			E#1			
+
+		G 1		A#0	C 0	%
+
+			E 1			
+
+		E#1	E#1	A#0	E#-1	%
+
+
+
+2		C 2	E#1	C 1	A -1	%
+
+
+
+	3	D 2	E#1	A#0	A#-1	%
+
+				A 0		
+
+		C 2	E 1	G 0	C 0	%
+
+
+
+		A#1	E#1	E#0	D 0	%
+
+
+
+		A 1	C 1	C 1	E 0	%
+
+		G 1				
+
+	4	A 1	C 1	C 1	E#0	%
+
+			E#1			
+
+		G 1		A#0	C 0	%
+
+			E 1			
+
+		E#1	C 1	A 0	E#-1	%
+
+
+
+3		A#1	E#1	A#0	D 0	%
+
+
+
+	5	A#1	G 1	A#0	C#0	%
+
+				C 1		
+
+		A#1	E#1	D 1	A#-1	%
+
+
+
+		A#1	G 1	D#1	D#0	%
+
+				D 1		
+
+		C 2	G 1	C 1	E 0	%
+
+
+
+	6	G#1	G 1	C 1	E#0	%
+
+			E#1			
+
+		G 1		A#0	C 0	%
+
+			E 1			
+
+		E#1	E#1	A 0	E#-1	%
+
+
+
+4		C 2	E#1	C 1	A -1	%
+
+
+
+	7	D 2	E#1	A#0	A#-1	%
+
+				A 0		
+
+		C 2	E 1	G 0	C 0	%
+
+
+
+		A#1	E#1	E#0	D 0	%
+
+
+
+		A 1	C 1	C 1	E 0	%
+
+		G 1				
+
+	8	A 1	C 1	C 1	E#0	%
+
+			E#1			
+
+		G 1		A#0	C 0	%
+
+			E 1			
+
+		E#1	C 1	A 0	E#-1	%
+
+
+
+5		E#2	A#1	D 1	D 0	%
+
+			A 1	C 1		
+
+	9	D#2	G 1	A#0	G 0	%
+
+				C 1		
+
+		D 2	E#1	D 1	A#0	%
+
+			G 1	D#1		
+
+		C 2	A 1	E#1	D#0	%
+
+
+
+		A#1	A#1	E#1	D 0	%
+
+			G#1			
+
+	10	A#1	G 1	A#0	D#0	%
+
+		C 2				
+
+		D 2	E#1		A#-1	%
+
+
+
+		C 2	E#1	A 0	E#0	%
+
+
+
+6		D 2	E#1	H 0	D 0	VTp7 7
+
+
+
+	11	D#2	D#1	C 1	C 0	%
+
+
+
+		D 2	G#1		E#0	SS
+
+			G 1	H 0	G 0	
+
+		C 2	G 1	C 1	G#0	%
+
+			E#1			
+
+		H 1	G 1	D 1	G 0	SS
+
+
+
+	12	C 2	G 1	D#1	C 0	%
+
+
+
+						%
+
+
+
+						%
+
+
+
+7		E#1	C 1	A 0	D#0	%
+
+
+
+	13	A#1	E#1	A#0	D 0	%
+
+
+
+		C 2	G 1	D#0	C 0	%
+
+			A 1			
+
+		D 2	A#1	E#0	A#-1	%
+
+				E#1		
+
+		D#2	A 1	D#1	C 0	%
+
+			G 1			
+
+	14	E#2	E#1	D#1	D 0	%
+
+				D 1		
+
+		D#2	G 1	C 1	D#0	%
+
+		D 2		A#0		
+
+		C 2	A 1	E#1	E#0	%
+
+
+
+8		D#2	A#1	A#0	G 0	%
+
+
+
+	15	D 2	G#1	A#0	E#0	%
+
+
+
+		C 2	G 1	A#0	D#0	%
+
+				C 1		
+
+		E#2	E#1	A 0		%
+
+
+
+		A#1	E#1	A#0	D 0	%
+
+		C 2	G 1		D#0	
+
+	16	D 2	E#1	A#0	E#0	%
+
+			D#1			
+
+		C 2	D#1	A 0	E#-1	%
+
+			D 1			
+
+		A#1	D 1	E#0	A#-1	%
+
+
+
+						%
+
+
+

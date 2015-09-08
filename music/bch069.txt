@@ -1,0 +1,221 @@
+Choralname = bch069
+Anzahl Stimmen = 4
+Tonart = A-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		C#2	A 1	E 1	A -1	T
+
+		H 1	G#1			
+
+	1	A 1	F#1	E 1	D 0	S
+
+				D 1		
+
+		H 1	F#1	D 1	H -1	Sp
+
+			G#1			
+
+		C#2	A 1	C#1	F#0	Tp
+
+		D 2				
+
+		E 2	G#1	C#1	C#0	Dp
+
+
+
+	2	D 2	A 1	H 0	F#0	S3
+
+				A 0		
+
+		D 2	H 1	E 1	G#0	D3 7
+
+
+
+		C#2	A 1	E 1	A 0	T
+
+
+
+2		E 2	E 1	H 0	G#0	D3
+
+				C#1		
+
+	3	D 2	F#1	D 1	F#0	S3
+
+			G#1			
+
+		C#2	A 1	E 1	E 0	T5
+
+
+
+		H 1	A 1	F#1	D 0	S
+
+
+
+		H 1	G#1	E 1	E 0	D
+
+
+
+	4	C#2	A 1	E 1	A -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+3		C#2	A 1	E 1	A -1	T
+
+		H 1	G#1			
+
+	5	A 1	F#1	E 1	D 0	S
+
+				D 1		
+
+		H 1	F#1	D 1	H -1	Sp
+
+			G#1			
+
+		C#2	A 1	C#1	F#0	Tp
+
+		D 2				
+
+		E 2	G#1	C#1	C#0	Dp
+
+
+
+	6	D 2	A 1	H 0	F#0	S3
+
+				A 0		
+
+		D 2	H 1	E 1	G#0	D3 7
+
+
+
+		C#2	A 1	E 1	A 0	T
+
+
+
+4		E 2	E 1	H 0	G#0	D3
+
+				C#1		
+
+	7	D 2	F#1	D 1	F#0	S3
+
+			G#1			
+
+		C#2	A 1	E 1	E 0	T5
+
+
+
+		H 1	A 1	F#1	D 0	S
+
+
+
+		H 1	G#1	E 1	E 0	D
+
+
+
+	8	C#2	A 1	E 1	A -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+5		H 1	A 1	F#1	D#0	DD3 7
+
+
+
+	9	H 1	G#1	E 1	E 0	D
+
+			A 1		F#0	
+
+		H 1	H 1	E 1	G#0	D3
+
+					E 0	
+
+		C#2	H 1	E 1	A 0	T
+
+			A 1		G#0	
+
+		H 1	A 1	D 1	F#0	VTp  7
+
+			G#1		E#0	
+
+	10	A 1	F#1	C#1	F#0	Tp
+
+		G#1	E#1			
+
+		A 1	F#1	D#1	C 0	%
+
+
+
+		G#1	E#1	G#0	C#0	DP
+
+
+
+6		G#1	E#1	C#1	C#0	DP
+
+
+
+	11	A 1	F#1	C#1	F#0	Tp
+
+
+
+		H 1	E 1	H 0	G#0	D3
+
+			D 1			
+
+		C#2	C#1	A 0	A 0	T
+
+			D 1			
+
+		H 1	E 1	H 0	G#0	D3
+
+		C#2				
+
+	12	D 2	F#1	A 0	F#0	S3
+
+			G#1	H 0		
+
+		C#2	A 1	C#1	E 0	T5
+
+		H 1		A 0	D 0	
+
+		H 1	A 1	E 1	E 0	%
+
+
+
+			G#1			D  7
+
+				D 1		
+
+	13	A 1	E 1	C#1	A -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

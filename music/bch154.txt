@@ -1,0 +1,461 @@
+Choralname = bch154
+Anzahl Stimmen = 4
+Tonart = Eb-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		Eb2	B 1	G 1	Eb0	T
+
+
+
+	1	D 2	B 1	F 1	B 0	D
+
+
+
+		C 2	G 1	Eb1	C 1	Tp
+
+
+
+		B 1	G 1	D 1	G 0	Dp
+
+
+
+		Ab1	F 1	Db1	B 0	d
+
+		G 1	Eb1			
+
+	2	C 2	Eb1	C 1	Ab0	S
+
+				B 0		
+
+		C 2	Ab1	C 1	Ab-1	S
+
+				D 1		
+
+		B 1	G 1	Eb1	Eb0	T
+
+
+
+2		Eb2	G 1	G 0	C 0	Tp
+
+				Ab0		
+
+	3	D 2	G 1	B 0	G 0	Dp
+
+			F 1			
+
+		C 2	Eb1	C 1	Ab0	S
+
+			F 1	D 1		
+
+		B 1	G 1	Eb1	Eb0	T
+
+			F 1		D 0	
+
+		Ab1	Eb1	Ab0	C 0	S3
+
+		G 1	D 1	B 0	B -1	
+
+	4	C 2	Eb1	C 1	Ab-1	S
+
+			F 1	Eb1		
+
+		C 2	F 1	D 1	Ab0	Sp3
+
+				C 1		
+
+		B 1	G 1	D 1	G 0	Dp
+
+
+
+3		B 1	G 1	Eb1	Eb0	T
+
+
+
+	5	C 2	Ab1	Eb1	Ab0	S
+
+			C 2	G 1		
+
+		D 2	B 1	F 1	B 0	D
+
+			Ab1	Eb1		
+
+		Eb2	G 1	C 1	C 1	Tp
+
+		F 2	F 1	B 0	D 0	
+
+		G 2	Eb1	Db1	Eb0	%
+
+
+
+	6	F 2	F 1	C 1	Ab-1	Sp3
+
+
+
+		Eb2			A -1	DD3 7
+
+
+
+			G 1	B 0	B -1	T5
+
+
+
+		D 2	Ab1			D  7
+
+
+
+	7	Eb2	G 1	B 0	Eb0	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+4		Eb2	B 1	G 1	Eb0	T
+
+
+
+	8	D 2	B 1	F 1	B 0	D
+
+
+
+		C 2	G 1	Eb1	C 1	Tp
+
+
+
+		B 1	G 1	D 1	G 0	Dp
+
+
+
+		Ab1	F 1	Db1	B 0	d
+
+		G 1	Eb1			
+
+	9	C 2	Eb1	C 1	Ab0	S
+
+				B 0		
+
+		C 2	Ab1	C 1	Ab-1	S
+
+				D 1		
+
+		B 1	G 1	Eb1	Eb0	T
+
+
+
+5		Eb2	G 1	G 0	C 0	Tp
+
+				Ab0		
+
+	10	D 2	G 1	B 0	G 0	Dp
+
+			F 1			
+
+		C 2	Eb1	C 1	Ab0	S
+
+			F 1	D 1		
+
+		B 1	G 1	Eb1	Eb0	T
+
+			F 1		D 0	
+
+		Ab1	Eb1	Ab0	C 0	S3
+
+		G 1	D 1	B 0	B -1	
+
+	11	C 2	Eb1	C 1	Ab-1	S
+
+			F 1	Eb1		
+
+		C 2	F 1	D 1	Ab0	Sp3
+
+				C 1		
+
+		B 1	G 1	D 1	G 0	Dp
+
+
+
+6		B 1	G 1	Eb1	Eb0	T
+
+
+
+	12	C 2	Ab1	Eb1	Ab0	S
+
+			C 2	G 1		
+
+		D 2	B 1	F 1	B 0	D
+
+			Ab1	Eb1		
+
+		Eb2	G 1	C 1	C 1	Tp
+
+		F 2	F 1	B 0	D 0	
+
+		G 2	Eb1	Db1	Eb0	%
+
+
+
+	13	F 2	F 1	C 1	Ab-1	Sp3
+
+
+
+		Eb2			A -1	DD3 7
+
+
+
+			G 1	B 0	B -1	T5
+
+
+
+		D 2	Ab1			D  7
+
+
+
+	14	Eb2	G 1	B 0	Eb0	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+7		Eb2	G 1	B 0	Eb0	T
+
+
+
+	15	Eb2	Ab1	C 1	Ab0	S
+
+					G 0	
+
+		F 2	Ab1	C 1	F 0	Sp
+
+
+
+		Eb2	G 1	C 1	C 0	Tp
+
+		D 2		D 1		
+
+		C 2		Eb1	C 1	Tp
+
+		D 2	G 1	D 1	B 0	
+
+	16	Eb2	F 1	C 1	A 0	DD3 7
+
+			G 1		G 0	
+
+		Eb2	A 1	F 1	F 0	DD  7
+
+
+
+		D 2	B 1	F 1	B 0	D
+
+
+
+8		D 2	B 1	F 1	B 0	D7 7
+
+					Ab0	
+
+	17	Eb2	B 1	B 0	G 0	T3
+
+					F 0	
+
+		F 2	Ab1	B 0	Eb0	D3 7
+
+					D 0	
+
+		Eb2	G 1	B 0	Eb0	T
+
+		D 2				
+
+		C 2	Ab1	F 1	F 0	Sp
+
+		D 2				
+
+	18	Eb2	B 1	Eb1	G 0	T3
+
+		G 2		D 1		
+
+		F 2	C 2	C 1	A 0	DD3
+
+
+
+		D 2	B 1	F 1	B 0	D
+
+
+
+9		G 2	B 1	Eb1	Eb0	T
+
+
+
+	19	G 2	B 1	Eb1	Eb1	T
+
+					D 1	
+
+		G 2	C 2	Eb1	C 1	Tp
+
+					B 0	
+
+		F 2	C 2	F 1	Ab0	Sp3
+
+					B 0	
+
+		Eb2	Ab1	F 1	C 1	S3
+
+					Ab0	
+
+	20	Eb2	G 1	B 0	B 0	T5
+
+
+
+		D 2	F 1	B 0	B -1	D
+
+
+
+		Eb2	G 1	B 0	Eb0	T
+
+
+
+10		D 2	Ab1	F 1	F 0	D5 7
+
+
+
+	21	Eb2	G 1	B 0	G 0	T3
+
+				C 1	A 0	
+
+		D 2	F 1	D 1	B 0	D
+
+			B 1		G 0	
+
+		C 2	G 1	Eb1	Eb0	Tp3
+
+					F 0	
+
+		B 1	G 1	D 1	G 0	Dp
+
+					Eb0	
+
+	22	B 1	G 1	Eb1	C 0	T
+
+				D 1		
+
+		A 1	F 1	C 1	F 0	DD
+
+
+
+		B 1	F 1	D 1	B -1	D
+
+
+
+11		G 2	Eb1	B 0	Eb0	T
+
+				C 1		
+
+	23	F 2	F 1	D 1	B 0	D
+
+			G 1			
+			Ab1			
+		Eb2	G 1	Eb1	C 1	Tp
+
+			A 1		C 1	
+
+		D 2	H 1	G 1	G 0	DP
+
+
+
+12		G 2	C 2	C 1	E 0	TP3
+
+
+
+	24	Ab2	C 2	F 1	F 0	Sp
+
+		G 2		Eb1	G 0	
+
+		F 2	H 1	D 1	Ab0	VTp7 7
+
+			C 2	C 1		
+
+		G 2	G 1	D 1	H -1	DP3
+
+
+
+		Eb2	G 1	C 1	C 0	Tp
+
+
+
+	25	Eb2	Gb1	C 1	A 0	DD3 7
+
+			F 1			
+
+		D 2	F 1	B 0	B 0	D
+
+
+
+		Eb2	G 1	B 0	Eb0	T
+
+
+
+13		Eb2	G 1	Db1	Eb0	%
+
+
+
+	26	Eb2	Ab1	C 1	Ab0	S
+
+				D 1	B 0	
+
+		Eb2	Ab1	Eb1	C 1	S3
+
+
+
+		F 2	Ab1	B 0	D 0	D3 7
+
+
+
+		Eb2	G 1	B 0	Eb0	T
+
+
+
+	27	Eb2	F 1	C 1	A -1	DD3 7
+
+
+
+						DD3 7
+
+
+
+			F 1	B 0	B -1	%
+
+
+
+		D 2				D
+
+
+
+	28	Eb2	G 1	B 0	Eb-1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

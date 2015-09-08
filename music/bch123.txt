@@ -1,0 +1,281 @@
+Choralname = bch123
+Anzahl Stimmen = 4
+Tonart = F-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	C 2	F 1	A 0	F -1	T
+
+				B 0	G -1	
+
+		A 1	F 1	C 1	A -1	T3
+
+					B -1	
+
+		G 1	F 1	C 1	C 0	D
+
+			E 1	G 0		
+			D 1			
+			E 1	C 1		D  7
+
+				B 0		
+
+	2	F 1	C 1	A 0	F -1	T
+
+
+
+						T
+
+
+
+2		C 2	G 1	C 1	E 0	D3
+
+					C 0	
+
+		D 2			G 0	DD
+
+				H 0	G -1	
+
+	3	C 2	G 1	E 1	C 0	D
+
+
+
+						D
+
+
+
+3		F 2	F 1	A 0	D 0	Tp
+
+					C 0	
+
+		F 2	G 1	D 1	H -1	DD3 7
+
+					G -1	
+
+	4	E 2	G 1	D 1	C 0	D3
+
+				C 1	E 0	
+				H 0		
+		E 2	E 1	C 1	A 0	Dp
+
+			F 1		G 0	
+			G 1			
+		D 2	A 1	C 1	F 0	T
+
+				H 0	D 0	
+				A 0		
+			A 1	H 0	G 0	DD
+
+		C 2	G 1		G -1	
+			F 1			
+	5	C 2	E 1	G 0	C 0	D
+
+
+
+						D
+
+
+
+4		C 2	F 1	A 0	F 0	T
+
+
+
+		D 2	F 1	B 0	B -1	S
+
+				A 0		
+
+	6	C 2	E 1	G 0	C 0	D
+
+
+
+		B 1	D 1	F 0	D 0	D3 7
+
+			C 1	G 0	E 0	
+
+		A 1	C 1	A 0	F 0	T
+
+
+
+						T
+
+
+
+	7					T
+
+
+
+5		G 1	E 1	C 1	C 0	D
+
+			G 1		E 0	
+
+		A 1	F 1	C 1	F 0	T
+
+		H 1			G 0	
+
+		C 2	E 1	C 1	A 0	Dp
+
+					G 0	
+
+	8	C 2	A 1	D 1	F 0	T
+
+			G 1		D 0	
+			F 1			
+		H 1	G 1	D 1	G 0	DD
+
+				E 1	G -1	
+				F 1		
+		C 2	G 1	E 1	C 0	D
+
+
+
+						D
+
+
+
+6	9	C 2	A 1	F 1	F 0	T
+
+					E 0	
+
+		D 2	A 1	F 1	D 0	Tp
+
+					F 0	
+
+		B 1	A 1	D 1	G 0	Sp
+
+			G 1		F 0	
+			F 1			
+		B 1	G 1	C 1	E 0	D3 7
+
+					C 0	
+
+	10	A 1	G 1	C 1	F 0	T
+
+			F 1		E 0	
+			E 1			
+		B 1	F 1	B 0	D 0	S3
+
+				D 1	B -1	
+
+		A 1	F 1	C 1	C 0	T5
+
+			E 1			
+			D 1			
+		G 1	E 1		C -1	D  7
+
+				B 0		
+
+	11	F 1	C 1	A 0	F -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+7		A 1	F 1	C 1	F 0	T
+
+
+
+	12	G 1	F 1	C 1	C 0	%
+
+
+
+			E 1			D  7
+
+				B 0		
+
+		F 1	D 1	A 0	D 0	Tp
+
+
+
+8		C 2	G 1	G 0	E 0	D3
+
+
+
+	13	C 2	A 1	D 1	F 0	T
+
+
+
+		H 1	G 1	D 1	G 0	DD  7
+
+			F 1			
+
+		C 2	E 1	C 1	A 0	Dp
+
+
+
+9		F 2	F 1	C 1	A 0	T3
+
+
+
+	14	F 2	G 1	D 1	H 0	DD3 7
+
+
+
+		E 2		D 1	C 1	D
+
+				C 1		
+
+		D 2	A 1	C 1	F 0	T
+
+				H 0		
+				A 0		
+		D 2	G 1	H 0	G 0	DD  7
+
+			F 1			
+
+	15	C 2	E 1	G 0	C 0	D
+
+
+
+						D
+
+
+
+10		C 2	F 1	A 0	F 0	T
+
+					E 0	
+
+		D 2	F 1	A 0	D 0	Tp
+
+		C 2	E 1		F 0	
+
+	16	B 1	D 1	B 0	G 0	Sp
+
+				A 0	F 0	
+
+		B 1	C 1	G 0	E 0	D3 7
+
+					C 0	
+
+		A 1	C 1	F 0	F 0	T
+
+			D 1	A 0	E 0	
+			E 1			
+		B 1	F 1	D 1	D 0	S3
+
+		A 1			C 0	
+
+	17	G 1	F 1	D 1	B -1	S
+
+			E 1	B 0	G -1	
+			D 1			
+			E 1	G 0	C 0	D
+
+				C 1		
+				A 0		
+		F 1	C 1	A 0	F -1	T
+
+
+
+						T
+
+
+

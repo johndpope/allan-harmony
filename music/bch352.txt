@@ -1,0 +1,233 @@
+Choralname = bch352
+Anzahl Stimmen = 4
+Tonart = Eb-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		Eb1	B 0	G 0	Eb0	T
+
+				Ab0	F 0	
+
+	1	B 1	Eb1	B 0	G 0	T3
+
+				C 1		
+
+		B 1	Eb1	Db1	G 0	T3
+
+
+
+		C 2	Eb1	C 1	Ab0	S
+
+				B 0	G 0	
+
+		D 2	F 1	Ab0	F 0	D5 7
+
+
+
+	2	Eb2	G 1	B 0	Eb0	T
+
+
+
+						T
+
+
+
+		P	P	P	P	T
+
+
+
+2		D 2	F 1	B 0	B -1	D
+
+
+
+	3	Eb2	C 2	B 0	C 0	DD5 7
+
+				A 0		
+
+		D 2	B 1	B 0	G 0	Dp
+
+			D 1			
+
+		C 2	G 1	B 0	Eb0	T
+
+
+
+		C 2	F 1	A 0	F 0	DD  7
+
+			Eb1			
+
+	4	B 1	D 1	F 0	B -1	D
+
+
+
+						D
+
+
+
+		P	P	P	P	D
+
+
+
+3		B 1	Eb1	B 0	G -1	T3
+
+
+
+	5	C 2	Eb1	B 0	Ab-1	S
+
+				Ab0		
+
+		B 1	D 1	Ab0	B -1	D  7
+
+				G 0		
+
+		Ab1	Eb1	G 0	C 0	D3 7
+
+			B 0	F 0	D 0	
+
+		G 1	B 0	F 0	Eb0	T
+
+				Eb0		
+
+	6	F 1	B 0	D 0	B -1	D
+
+
+
+						D
+
+
+
+		P	P	P	P	D
+
+
+
+4		G 1	D 1	G 0	H -1	DP3
+
+
+
+	7	Eb1	D 1	G 0	C 0	Tp
+
+			C 1			
+
+		F 1	C 1	F 0	D 0	D3
+
+			B 0			
+
+		G 1	B 0	Eb0	Eb0	T
+
+		Ab1				
+
+		B 1	Eb1	B 0	G -1	T3
+
+
+
+	8	Ab1	Eb1	C 1	F -1	Sp
+
+			F 1			
+			Eb1			
+			D 1	B 0	B -1	D  7
+
+
+
+		G 1	Eb1	B 0	Eb-1	T
+
+
+
+5		D 2	F 1	D 1	B 0	D
+
+
+
+	9	Eb2	G 1	C 1	B 0	DD3 7
+
+			F 1		A 0	
+
+		D 2	F 1	B 0	B 0	D
+
+
+
+		C 2	G 1	B 0	Eb0	T
+
+
+
+		C 2	F 1	Ab0	F 0	Sp
+
+			Eb1			
+
+	10	B 1	D 1	F 0	B -1	D
+
+
+
+						D
+
+
+
+		P	P	P	P	D
+
+
+
+6		Eb2	G 1	C 1	C 0	Tp
+
+
+
+	11	D 2	G 1	C 1	G 0	Dp
+
+				B 0		
+
+		C 2	Eb1	B 0	Ab0	S
+
+				Ab0		
+
+		B 1	Eb1	Ab0	Eb0	T
+
+				G 0		
+
+		C 2	Eb1	G 0	C 0	Tp
+
+
+
+	12	B 1	F 1	D 1	D 0	TP3 7
+
+			G 1	C 1	E 0	
+
+		Ab1	G 1	C 1	F 0	Sp
+
+			F 1			
+
+		G 1	F 1	C 1	C 0	S3
+
+		Ab1	Eb1			
+
+		B 1	Eb1	B 0	G -1	T3
+
+
+
+	13	Ab1	Eb1	Eb0	C 0	S3
+
+				F 0		
+
+		G 1	Eb1	G 0	B -1	T5
+
+				Eb0		
+
+		F 1	Eb1	C 1	Ab-1	S
+
+
+
+			D 1	B 0	B -1	D  7
+
+				Ab0		
+
+	14	Eb1	B 0	G 0	Eb-1	T
+
+
+
+						T
+
+
+
+						T
+
+
+

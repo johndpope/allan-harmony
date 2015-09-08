@@ -1,0 +1,345 @@
+Choralname = bch308
+Anzahl Stimmen = 4
+Tonart = G-moll
+Takt = 3/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	G 1	D 1	B 0	G 0	t
+
+				C 1	A 0	
+
+		G 1	G 1	D 1	B 0	t3
+
+		A 1	F#1		A 0	
+
+		B 1	G 1	D 1	G 0	t
+
+
+
+	2	A 1	G 1	Eb1	C 0	s
+
+
+
+			F#1	D 1	D 0	D  7
+
+				C 1		
+
+		G 1	G 1	B 0	Eb0	sP
+
+
+
+	3	F#1	C 1	A 0	A -1	D5 7
+
+		G 1				
+
+		G 1	D 1	G 0	B -1	t3
+
+				A 0		
+
+			C#1	B 0	G -1	%
+
+		F#1				
+		G 1				
+	4	A 1	D 1	F#0	D 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+2	5	A 1	F#1	D 1	D 0	D
+
+		B 1				
+
+		C 2	G 1		G 0	%
+
+
+
+				D 1	F 0	d3
+
+		A 1				
+		B 1				
+	6	C 2	G 1	C 1	E 0	S3 7
+
+				B 0		
+
+			A 1	A 0	F#0	D3 7
+
+				G 0		
+
+		D 2	F#1	A 0	D 0	D
+
+
+
+	7	B 1	D 1	G 0	G 0	t
+
+
+
+		A 1	Eb1		C 0	s
+
+
+
+			D 1	F#0	D 0	D
+
+
+
+	8	G 1	D 1	B 0	G -1	t
+
+
+
+						t
+
+
+
+						t
+
+
+
+3	9	A 1	F 1	D 1	D 0	d
+
+					E 0	
+
+					F 0	d3
+
+					E 0	
+
+		B 1	F 1	D 1	D 0	tP3
+
+
+
+	10	C 2	E 1	C 1	A 0	%
+
+				B 0		
+
+			F 1	A 0	D 0	dP
+
+
+
+		B 1	G 1	G 0	E 0	S3 7
+
+
+
+	11	A 1	F 1	A 0	F 0	dP
+
+
+
+		G 1		D 1	B -1	t3
+
+
+
+			E 1	C 1	C 0	S
+
+
+
+	12	F 1	C 1	A 0	F -1	dP
+
+
+
+						dP
+
+
+
+						dP
+
+
+
+4	13	C 2	A 1	A 0	F 0	dP
+
+
+
+		D 2	G 1	H 0		T7 7
+
+
+
+		E 2		C#1	E 0	Vd3
+
+
+
+	14	F 2	F 1	D 1	D 0	d
+
+
+
+		E 2	B 1		A 0	t
+
+					G 0	
+
+			A 1	C#1	A 0	DD
+
+					B 0	
+
+	15	D 2	F 1	D 1	B 0	tP
+
+
+
+			B 1	E 1	G 0	t
+
+
+
+		C#2	A 1		A 0	DD
+
+
+
+	16	D 2	A 1	F#1	D 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+5	17	D 2	B 1	F 1	B -1	tP
+
+					C 0	
+
+					D 0	tP3
+
+					C 0	
+
+		D 2	B 1	F 1	B -1	tP
+
+
+
+	18	C 2	A 1	F 1	F 0	dP
+
+		B 1	G 1			
+
+		A 1	F 1			dP
+
+		B 1	G 1			
+
+		C 2	A 1	Eb1	F 0	dP
+
+
+
+	19	D 2	A 1	D 1	F#0	D3
+
+
+
+		C 2	F#1		D 0	D  7
+
+
+
+		B 1	G 1	D 1	G 0	t
+
+
+
+	20	A 1	F#1	D 1	D 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+6	21	D 2	G 1	D 1	B 0	t3
+
+
+
+			A 1	C 1	F#0	D3 7
+
+
+
+		D 2	B 1	B 0	G 0	t
+
+
+
+	22	C 2	A 1	C 1	A 0	%
+
+
+
+		D 2	G 1			%
+
+
+
+		Eb2	F#1	C 1	A -1	Vt3 7
+
+
+
+	23	D 2	G 1	B 0	B -1	t3
+
+
+
+		C 2	F#1	A 0		%
+
+
+
+		B 1	G 1	G 0	C 0	%
+
+
+
+	24	A 1	F#1	D 1	D 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+7	25	A 1	F#1	D 1	D 1	D
+
+		B 1	G 1			
+
+		B 1	G 1		C 1	t
+
+
+
+				D 1	B 0	t3
+
+		A 1	F#1			
+		B 1	G 1			
+	26	C 2	A 1	C 1	A 0	%
+
+			G 1			
+
+			F#1	Eb1	G 0	s5
+
+			G 1			
+
+		D 2	A 1	D 1	F#0	D3
+
+
+
+	27	B 1	G 1	D 1	G 0	t
+
+
+
+		A 1		Eb1	C 0	s
+
+
+
+			F#1	D 1	D 0	D  7
+
+				C 1		
+
+	28	G 1	D 1	H 0	G -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+

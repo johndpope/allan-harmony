@@ -1,0 +1,189 @@
+Choralname = bch381
+Anzahl Stimmen = 4
+Tonart = F#-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		F#1	C#1	A 0	F#0	t
+
+		G#1		H 0		
+
+	1	A 1	F#1	C#1	F#0	t
+					G#0	
+					A 0	
+					H 0	
+		G#1	E#1	C#1	C#1	D  7
+
+				H 0	C#0	
+
+		F#1	F#1	A 0	D 0	sP
+
+
+
+2		F#1	F#1	H 0	D 0	s3
+
+		G#1				
+
+	2	A 1	F#1	C#1	C#0	t5
+
+					H -1	
+
+		G#1	E#1	C#1	C#0	D  7
+
+				H 0		
+
+		F#1	C#1	A 0	F#-1	t
+
+
+
+3		C#2	F#1	A 0	F#0	t
+
+
+
+	3	H 1	F#1	H 0	G#0	D5 7
+
+			E#1			
+
+		A 1	F#1	C#1	A 0	t3
+
+					H 0	
+
+		G#1	E#1	C#1	C#1	D
+
+
+
+4		G#1	E#1	C#1	C#0	D
+
+
+
+	4	A 1	F#1	C#1	F#0	t
+
+					E 0	
+
+		A 1	F#1	D 1	D 0	sP
+
+					C#0	
+
+		H 1	F#1	D 1	D 0	s3
+
+			G#1	E 1	H -1	
+			A 1	F#1		
+		H 1	G#1	E 1	E 0	dP
+
+				D 1		
+
+	5	C#2	G#1	C#1	A -1	t3
+
+			F#1		A 0	
+
+		C#2	E#1	H 0	G#0	D5 7
+
+			F#1	A 0	F#0	
+
+		H 1	G#1	D 1	F#0	D3 7
+
+				C#1	E#0	
+
+		A 1		C#1	F#0	sP
+
+			F#1	D 1	D 0	
+
+	6	G#1	F#1	D 1	H -1	s
+
+				H 0	G#-1	
+
+			E#1	G#0	C#0	D  7
+
+				H 0		
+
+		F#1	C#1	A 0	F#-1	t
+
+
+
+5		C#2	F#1	A 0	F#0	t
+
+					E 0	
+
+	7	H 1	F#1	H 0	D 0	s3
+
+			E#1	C#1	C#0	
+
+		A 1	F#1	D#1	H#-1	DD3
+
+		G#1				
+
+		G#1	E#1	C#1	C#0	D
+
+
+
+6		C#2	F#1	C#1	A -1	t3
+
+			E 1			
+
+	8	H 1	D#1	F#0	H -1	S
+
+			E 1		C#0	
+
+		A 1	F#1	H 0	D#0	S3 7
+
+			D#1		H -1	
+
+		G#1	E 1	H 0	E 0	dP
+
+
+
+7		G#1	G#1	C#1	E#0	D3
+
+			E#1		C#0	
+
+	9	A 1	F#1	C#1	F#0	t
+
+				A 0		
+
+		A 1	A 1	D 1	F#0	sP3
+
+			F#1		D 0	
+
+		H 1	D 1	D 1	G#0	%
+
+				H 0		
+
+		H 1	H 1	E 1	G#0	dP3
+
+			G#1		E 0	
+
+	10	C#2	A 1	E 1	A 0	tP
+
+			G 1	C#1		
+
+		C#2	F#1	F#1	A#0	T3
+
+				E 1	F#0	
+
+		H 1	F#1	D 1	H 0	s
+
+			E#1	C#1		
+
+		A 1	F#1	D#1	H#0	%
+
+		G#1			G#0	
+
+	11	G#1	F#1	C#1	C#1	D
+
+			E#1	G#0		
+			D#1			
+			E#1	C#1	C#0	D  7
+
+				H 0		
+
+		F#1	C#1	A 0	F#0	t
+
+
+
+						t
+
+
+

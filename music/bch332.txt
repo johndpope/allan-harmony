@@ -1,0 +1,173 @@
+Choralname = bch332
+Anzahl Stimmen = 4
+Tonart = A-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		A 1	E 1	C 1	A -1	t
+
+				D 1	H -1	
+
+	1	A 1	E 1	E 1	C 0	t3
+
+		H 1				
+
+		C 2		A 0	A -1	t
+
+			A 1			
+
+		H 1	A 1	H 0	E 0	D
+
+			G#1			
+
+		E 2	G 1	B 0	C#0	%
+
+
+
+	2	D 2	F 1	A 0	D 0	s
+
+
+
+		C 2	F#1	A 0	D#0	%
+
+
+
+		H 1	H 0	G#0	E 0	D
+
+
+
+2		C 2	E 1	A 0	A -1	t
+
+		H 1				
+
+	3	A 1	F 1	A 0	D 0	s
+
+
+
+		E 2	G 1	C 1	C 0	tP
+
+
+
+		D 2	G 1	C 1	G 0	dP
+
+				H 0		
+				A 0		
+		E 2	G 1	H 0	E 0	d
+
+				C#1		
+
+	4	A 1	F 1	D 1	F 0	s3
+
+		H 1			G 0	
+
+		C#2	E 1	A 0	A 0	T
+
+
+
+		D 2	F 1	A 0	D 0	s
+
+
+
+3		C 2	E 1	A 0	A -1	t
+
+
+
+	5	H 1	E 1	G#0	E 0	D
+
+
+
+		E 2	E 1	A 0	C 0	t3
+
+			F#1			
+
+		D 2	G#1	H 0	H -1	D5 7
+
+
+
+		C 2	A 1	C 1	A -1	t
+
+				D 1		
+
+	6	H 1	G#1	E 1	E 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+4		A 1	A 1	E 1	C 1	t3
+
+		H 1	G#1	D 1	H 0	
+
+	7	C 2	A 1	C 1	A 0	t
+
+					G 0	
+
+		C 2	A 1	D#1	F 0	sP
+
+			G 1			
+
+		D 2	F 1	D 1	B 0	s5
+
+					A 0	
+
+		D 2	B 1	G 1	G 0	%
+
+
+
+	8	E 2	B 1	G 1	C 1	tP
+
+
+
+		E 2	A 1	F 1	C 0	tP
+
+			G 1	E 1		
+
+		C 2	A 1	F 1	F 0	sP
+
+
+
+5		E 2	C 2	G 1	C 0	tP
+
+
+
+	9	D 2	H 1	G 1	G 0	dP
+
+				F 1		
+
+		C 2	A 1	E 1	A 0	t
+
+			G 1			
+
+		H 1	F#1	D 1	D 0	D  7
+
+			G#1		E 0	
+
+		A 1	A 1	C 1	F 0	sP
+
+		H 1		D 1		
+
+	10	C 2	A 1	E 1	C 0	t3
+
+					D 0	
+
+		H 1	G#1	E 1	E 0	D  7
+
+				D 1		
+
+		A 1	E 1	C#1	A -1	T
+
+
+
+						T
+
+
+

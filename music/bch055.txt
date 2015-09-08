@@ -1,0 +1,205 @@
+Choralname = bch055
+Anzahl Stimmen = 4
+Tonart = A-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		A 1	E 1	C#1	A 0	T7 7
+
+					G 0	
+
+	1	A 1	F 1	D 1	F 0	s3
+
+				C 1	D 0	
+
+		G 1	E 1	B 0	G 0	%
+
+		F 1	D 1	G 0		
+
+		E 1	C#1	A 0	G 0	T7 7
+
+					E 0	
+
+		A 1	D 1	A 0	F 0	s3
+
+				F 0	D 0	
+
+	2	G 1	D 1	D 0	B -1	%
+
+			E 1	B 0	G -1	
+
+		E 1	D 1	A 0	A -1	T
+
+			C#1			
+
+		F 1	D 1	A 0	D 0	s
+
+
+
+2		A 1	D 1	F 0	D 0	s
+
+					C 0	
+
+	3	A 1	D 1	F 0	B -1	s
+
+				D 0		
+
+		G 1		G 0	H -1	dP3
+
+		F 1				
+
+		E 1		G 0	C 0	tP
+
+			C 1	E 0		
+
+		A 1	C 1	F 0		sP5
+
+			F 1	A 0		
+
+	4	G 1	F 1	C 1		%
+
+			E 1	B 0	E 0	
+			D 1			
+		E 1	E 1	B 0	C#0	T
+
+			C#1	A 0	A -1	
+
+		F 1	D 1	A 0	D 0	s
+
+
+
+3		A 1	F 1	D 1	D 1	s
+
+
+
+	5	H 1	F 1	D 1	G#0	D3 7
+
+			E 1			
+
+		C#2	E 1	A 0	G 0	T7 7
+
+			D 1			
+
+		D 2	D 1	A 0	F#0	S3
+
+				G#0		
+
+		A 1	C 1	A 0	F 0	sP
+
+		H 1	D 1			
+
+	6	C 2	E 1	A 0	E 0	t5
+
+					D 0	
+
+		H 1		G#0	E 0	D  7
+
+			D 1			
+
+		A 1	C#1	E 0	A -1	T
+
+
+
+4		H 1	D 1	F 0	D 0	%
+
+
+
+	7	C 2	E 1	G 0	C 0	tP
+
+				E 0		
+
+		H 1	D 1	F 0	D 0	dP
+
+				G 0	E 0	
+
+		A 1	C 1	A 0	F 0	sP
+
+			D 1	B 0		
+
+		A 1	D#1	C 1	F#0	%
+
+
+
+	8	G 1	D 1	B 0	G 0	s
+
+		F 1		A 0		
+
+		E 1	E 1	B 0	C#0	T3
+
+				A 0		
+
+		F 1	D 1	A 0	D 0	s
+
+
+
+5		G 1	D 1	G 0	H -1	dP3
+
+			E 1			
+			F 1			
+	9	G 1	E 1	C 1	C 0	tP
+
+				E 0		
+
+		A 1	D 1	F#0		S7 7
+
+			C 1	G 0	A -1	
+				A 0		
+		G 1	D 1	D 0	H -1	dP3
+
+		F 1				
+
+		E 1	E 1	A 0	C#0	T3
+
+
+
+	10	F 1	E 1	A 0	D 0	s
+
+			C#1		E 0	
+
+		F 1	D 1	A 0	F 0	s3
+
+					G 0	
+
+		E 1	C#1	A 0	A 0	T
+
+
+
+6		H 1	F#1	A 0	D#0	DD3
+
+
+
+	11	C 2	E 1	G#0	E 0	t5
+
+			F#1	A 0		
+
+		H 1	G#1	H 0		D
+
+			A 1		D 0	
+			H 1			
+		A 1	E 1	C 1	C 0	t3
+
+				D 1	H -1	
+
+		E 1		C 1	A -1	t
+
+			E 1	H 0	G -1	
+
+	12	A 1	E 1	C 1	F#-1	t
+
+				A 0		
+
+		A 1	D#1	F#0	H -1	DD
+
+				H 0		
+
+		G#1	E 1	H 0	E 0	D
+
+
+
+						D
+
+
+

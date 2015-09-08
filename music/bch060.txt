@@ -1,0 +1,233 @@
+Choralname = bch060
+Anzahl Stimmen = 4
+Tonart = C-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	G 1	E 1	C 1	C 0	T
+
+
+
+		G 1	D 1	G 0		D3
+
+					H -1	
+
+		A 1	E 1	C 1	A -1	Tp
+
+			F#1			
+
+		H 1	G 1	D 1	G -1	D7 7
+
+					F -1	
+
+	2	C 2	G 1	C 1	E -1	T3
+
+				B 0		
+
+			F 1	A 0	F -1	S
+
+
+
+		C 2	F 1	G 0	C -1	%
+
+
+
+			E 1			T
+
+
+
+2	3	E 2	G 1	C 1	C 0	T
+
+				H 0		
+
+		D 2	F#1	A 0		DD7 7
+
+			G 1	H 0	H -1	
+			F#1	A 0		
+		C 2	E 1	G 0	H -1	T
+
+			A 1	F#0	A -1	
+
+		H 1	D 1	G 0	G -1	D
+
+			C 1		A -1	
+			D 1		H -1	
+	4	A 1	E 1	G 0	C 0	T
+
+			C 1		A -1	
+
+			A 0		D 0	DD
+
+			D 1	F#0		
+			C 1			
+		G 1	H 0	D 0	G -1	D
+
+
+
+						D
+
+
+
+3	5	G 1	E 1	H 0	E -1	Dp
+
+					E 0	
+
+		G 1	E 1	H 0		Dp
+
+					D 0	
+
+		A 1	E 1	C 1	C 0	Tp3
+
+			F#1			
+
+		H 1	G 1	D 1	H -1	D3
+
+
+
+	6	C 2	G 1	C 1	A -1	S3
+
+			F 1			
+
+		G 1	F 1	D 1	H -1	D3 7
+
+			E 1	G 0		
+			D 1			
+		G 1	E 1	C 1	C 0	T
+
+
+
+						T
+
+
+
+4	7	A 1	F 1	C 1	F 0	S
+
+			E 1			
+
+		G 1	D 1	H 0		D7 7
+
+			E 1	C 1	E 0	
+			D 1	H 0		
+		F 1	C 1	A 0	E 0	S
+
+			H 0	D 1	D 0	
+
+		E 1	C 1	G 0	C 0	T
+
+				F 0	D 0	
+				G 0	E 0	
+	8	D 1	C 1	A 0	F 0	S
+
+				F 0	D 0	
+
+		D 1	C 1	D 0	G 0	D
+
+			H 0	G 0	G -1	
+				F 0		
+		C 1	G 0	E 0	C 0	T
+
+
+
+						T
+
+
+
+5	9	C 2	G 1	E 1	C 0	T
+
+
+
+		D 2	G 1	D 1		D3
+
+					H -1	
+
+		C 2		G 0	E 0	T3
+
+			F#1	A 0		
+
+		H 1	G 1	H 0	D 0	D5
+
+				C 1		
+				D 1		
+	10	A 1	G 1	E 1	C 0	T
+
+				C 1		
+
+			F#1	A 0	D 0	DD
+
+				D 1		
+				C 1		
+		G 1	G 1	H 0	G -1	D
+
+
+
+						D
+
+
+
+6	11	G 1	E 1	C 1	C 0	T
+
+			F 1		D 0	
+
+		G 1	G 1	C 1	E 0	T3
+
+
+
+		A 1	G 1	C 1	F 0	S
+
+			F 1		E 0	
+			E 1			
+		H 1	F 1	D 1	D 0	D5 7
+
+
+
+	12	C 2	F 1	G 0	C 0	T
+
+			E 1			
+
+		G 1	D 1	G 0		D3
+
+					H -1	
+				F 0		
+		G 1	C 1	E 0	C 0	T
+
+
+
+						T
+
+
+
+7	13	A 1	C 1	F 0	F 0	S
+
+			F 1			
+
+		G 1		G 0	C 0	T
+
+			E 1	C 1		
+				B 0		
+		F 1		A 0	D 0	Sp
+
+			D 1			
+
+		E 1	C 1	A 0	A -1	Tp
+
+					G -1	
+
+	14	D 1			F -1	S
+
+			H 0	D 0		
+			A 0			
+			H 0	D 0	G -1	D
+
+				G 0		
+				F 0		
+		C 1	G 0	E 0	C -1	T
+
+
+
+						T
+
+
+

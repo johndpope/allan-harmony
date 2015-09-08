@@ -1,0 +1,189 @@
+Choralname = bch169
+Anzahl Stimmen = 4
+Tonart = A-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1		A 1	C 1	A 0	A 0	t
+
+			D 1	H 0		
+
+	1	A 1	E 1	C 1	A -1	t
+
+					H -1	
+
+		A 1	E 1	C 1	C 0	t3
+
+					D 0	
+
+		G#1	E 1	H 0	E 0	D
+
+					F 0	
+
+		E 1	H 0	G#0	E 0	D7 7
+
+					D 0	
+
+	2	A 1	E 1	A 0	C 0	t3
+
+			F#1		D 0	
+
+		H 1	G#1	D 1	C 0	D5 7
+
+					H -1	
+
+		C 2	A 1	E 1	A -1	t
+
+					E 0	
+
+		C 2	A 1	E 1	A 0	t
+
+					G 0	
+
+	3	D 2	A 1	F 1	F 0	s3
+
+					E 0	
+
+		C 2		A 0	F 0	sP
+		H 1				
+		C 2			D 0	
+
+		H 1	G#1	E 1	E 0	D
+
+
+
+2		H 1	G#1	E 1	E 0	D
+
+
+
+	4	C 2	A 1	E 1	A 0	t
+
+					G 0	
+
+		D 2	G 1	H 0	F 0	d3
+
+		E 2			G 0	
+		F 2				
+		E 2	G 1	C 1	C 0	tP
+
+					D 0	
+
+		C 2	F 1	A 0	E 0	sP
+
+					F 0	
+
+	5	F 2	A 1	D 1	D 0	s
+
+					E 0	
+
+		F 2	A 1	D 1	F 0	s3
+
+					G 0	
+
+		E 2	A 1	C 1	A 0	t
+
+		D 2			H 0	
+
+		C 2	E 1	C 1	A 0	t
+
+		D 2			G 0	
+
+	6	D 2	A 1	C 1	F 0	s3
+
+					E 0	
+
+			G 1	H 0	F 0	dP
+
+					G 0	
+
+		C 2	G 1	E 1	C 0	tP
+
+
+
+3		C 2	A 1	E 1	A 0	t
+
+
+
+	7	H 1	A 1	F#1	D#0	d
+
+			G 1	E 1	E 0	
+
+		A 1	G 1	C 1	F#0	%
+
+			F#1		D#0	
+
+		G 1	E 1	H 0	E 0	d
+
+		F#1			F#0	
+
+		E 1	E 1	H 0	G 0	d3
+
+		F#1			F#0	
+
+	8	G 1	E 1	H 0	E 0	d
+
+			D 1		F 0	
+
+		G 1	C#1	B 0	E 0	%
+
+			D 1		D 0	
+
+		A 1	E 1	A 0	C#0	T3
+
+					A -1	
+
+		G 1	E 1	A 0	H -1	T3 7
+
+					C#0	
+
+	9	F 1	E 1	A 0	D 0	s
+
+					E 0	
+
+			D 1		F 0	s3
+
+					G 0	
+
+		E 1	C#1	A 0	A 0	T
+
+
+
+4		E 2	A 1	C 1	A 0	t
+
+					G 0	
+
+	10	D 2	A 1	C 1	F#0	S3 7
+
+			H 1	H 0	G#0	
+
+		C 2	E 1	A 0	A 0	t
+
+		H 1	D 1		F 0	
+
+		H 1	F 1	A 0	D 0	s
+
+					H -1	
+
+			E 1	G#0	E 0	D  7
+
+			D 1			
+
+	11	A 1	C#1	E 0	A -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

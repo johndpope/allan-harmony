@@ -1,0 +1,457 @@
+Choralname = bch113
+Anzahl Stimmen = 4
+Tonart = D-dur
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	A 1	F#1	D 1	D 0	T
+
+
+
+		A 1	F#1	D 1	D 0	T
+
+
+
+		H 1	G 1	D 1	G 0	S
+
+					F#0	
+
+		C#2	G 1	E 1	E 0	D5 7
+
+
+
+	2	D 2	A 1	F#1	D 0	T
+
+				E 1	C#0	
+
+		D 2	A 1	D 1	H -1	DD5 7
+
+			G#1			
+
+		C#2	A 1	E 1	A -1	D
+
+
+
+2		H 1	G 1	E 1	E 0	Sp
+
+
+
+	3	D 2	F#1	D 1	H -1	Tp
+
+
+
+		A 1	E 1	E 1	C#0	D3
+
+				A 0		
+
+		F#1	E 1	A 0	D 0	T
+
+			D 1			
+
+		G 1		G 0	E 0	D5 7
+
+			C#1			
+
+	4	F#1	D 1	A 0	F#0	T3
+
+					G 0	
+
+		E 1			A 0	D
+
+			C#1	A 0		
+				G 0		
+		D 1	A 0	F#0	D 0	T
+
+
+
+						T
+
+
+
+3	5	A 1	F#1	D 1	D 0	T
+
+
+
+		A 1	F#1	D 1	D 0	T
+
+
+
+		H 1	G 1	D 1	G 0	S
+
+					F#0	
+
+		C#2	G 1	E 1	E 0	D5 7
+
+
+
+	6	D 2	A 1	F#1	D 0	T
+
+				E 1	C#0	
+
+		D 2	A 1	D 1	H -1	DD5 7
+
+			G#1			
+
+		C#2	A 1	E 1	A -1	D
+
+
+
+4		H 1	G 1	E 1	E 0	Sp
+
+
+
+	7	D 2	F#1	D 1	H -1	Tp
+
+
+
+		A 1	E 1	E 1	C#0	D3
+
+				A 0		
+
+		F#1	E 1	A 0	D 0	T
+
+			D 1			
+
+		G 1		G 0	E 0	D5 7
+
+			C#1			
+
+	8	F#1	D 1	A 0	F#0	T3
+
+					G 0	
+
+		E 1			A 0	D
+
+			C#1	A 0		
+				G 0		
+		D 1	A 0	F#0	D 0	T
+
+
+
+						T
+
+
+
+5	9	D 1	A 0	F#0	D 0	T
+
+
+
+		E 1	A 0	A 0	C#0	D3
+
+			E 1			
+
+		F#1		A 0	D 0	T
+
+			D 1			
+
+				A 0	A -1	D  7
+
+		E 1	C#1	G 0		
+
+	10	D 1	H 0	F#0	H -1	Tp
+
+					A -1	
+
+		E 1	H 0	H 0	G -1	Sp3
+
+
+
+		F#1	C#1	A#0	F#-1	DP
+
+
+
+6		D 2	D 1	H 0	H -1	Tp
+
+			E 1			
+
+	11	C#2	F#1	H 0	F#0	Dp
+
+				A 0		
+
+		D 2	F#1	F#1	D 0	Tp3
+
+			H 1			
+
+		E 2	H 1	E 1	C#0	D3
+
+			A 1			
+			G#1			
+			A 1	C#1	F#0	T3
+
+		D 2		D 1		
+
+	12	C#2	A 1	E 1	E 0	D5
+
+
+
+		H 1	G#1		E -1	DD  7
+
+				D 1		
+
+		A 1	E 1	C#1	A -1	D
+
+
+
+7		A 1	E 1	C#1	A 0	D7 7
+
+					G 0	
+
+	13	A 1	F#1	D 1	F#0	T3
+
+					E 0	
+
+		D 2	F#1	A 0	D 0	T
+
+
+
+		C#2	E 1	A 0	A -1	D  7
+
+				G 0		
+
+		A 1	D 1	F#0	D 0	T
+
+			E 1			
+
+	14	H 1	F#1	H 0	D#0	TP3 7
+
+		A 1				
+
+		G 1			E 0	Sp
+
+			E 1			
+
+		F#1	E 1	H 0	H -1	TP
+
+			D#1			
+
+8		E 1	E 1	H 0	C#0	D3
+
+				A 0		
+
+	15	F#1	E 1	A 0	D 0	T
+
+			D 1			
+
+		G 1	D 1	G 0	E 0	D5 7
+
+			C#1			
+
+		A 1	C#1	F#0	F#0	Dp
+
+			D 1	A 0		
+
+			D 1	H 0	G 0	Sp3
+
+		G 1	E 1			
+
+	16	F#1	E 1	A 0	H 0	T
+
+			D 1			
+
+		E 1		P	A -1	D  7
+
+			C#1	G 0		
+
+		D 1	A 0	F#0	D 0	T
+
+
+
+						T
+
+
+
+9	17	D 1	A 0	F#0	D 0	T
+
+
+
+		E 1	A 0	A 0	C#0	D3
+
+			E 1			
+
+		F#1		A 0	D 0	T
+
+			D 1			
+
+				A 0	A -1	D  7
+
+		E 1	C#1	G 0		
+
+	18	D 1	H 0	F#0	H -1	Tp
+
+					A -1	
+
+		E 1	H 0	H 0	G -1	Sp3
+
+
+
+		F#1	C#1	A#0	F#-1	DP
+
+
+
+10		D 2	D 1	H 0	H -1	Tp
+
+			E 1			
+
+	19	C#2	F#1	H 0	F#0	Dp
+
+				A 0		
+
+		D 2	F#1	F#1	D 0	Tp3
+
+			H 1			
+
+		E 2	H 1	E 1	C#0	D3
+
+			A 1			
+			G#1			
+			A 1	C#1	F#0	T3
+
+		D 2		D 1		
+
+	20	C#2	A 1	E 1	E 0	D5
+
+
+
+		H 1	G#1		E -1	DD  7
+
+				D 1		
+
+		A 1	E 1	C#1	A -1	D
+
+
+
+11		A 1	E 1	C#1	A 0	D7 7
+
+					G 0	
+
+	21	A 1	F#1	D 1	F#0	T3
+
+					E 0	
+
+		D 2	F#1	A 0	D 0	T
+
+
+
+		C#2	E 1	A 0	A -1	D  7
+
+				G 0		
+
+		A 1	D 1	F#0	D 0	T
+
+			E 1			
+
+	22	H 1	F#1	H 0	D#0	TP3 7
+
+		A 1				
+
+		G 1			E 0	Sp
+
+			E 1			
+
+		F#1	E 1	H 0	H -1	TP
+
+			D#1			
+
+12		E 1	E 1	H 0	C#0	D3
+
+				A 0		
+
+	23	F#1	E 1	A 0	D 0	T
+
+			D 1			
+
+		G 1	D 1	G 0	E 0	D5 7
+
+			C#1			
+
+		A 1	C#1	F#0	F#0	Dp
+
+			D 1	A 0		
+
+			D 1	H 0	G 0	Sp3
+
+		G 1	E 1			
+
+	24	F#1	E 1	A 0	H 0	T
+
+			D 1			
+
+		E 1		P	A -1	D  7
+
+			C#1	G 0		
+
+		D 1	A 0	F#0	D 0	T
+
+
+
+						T
+
+
+
+13	25	D 1	A 0	A 0	F#0	T3
+
+
+
+		E 1	A 0	A 0	C#0	D3
+
+			E 1			
+
+		F#1		A 0	D 0	T
+
+			D 1			
+
+			D 1	A 0	A 0	D7 7
+
+		E 1	C#1		G 0	
+
+	26	D 1	D 1	A 0	F#0	T3
+
+				F#0	D 0	
+
+		E 1	H 0	G 0		D3
+
+			E 1	A 0	C#0	
+
+		F#1	D 1	A 0	D 0	T
+
+
+
+14		A 1	D 1	F#0	D 0	T
+
+				G 0	E 0	
+
+	27	A 1	D 1	A 0	F#0	T3
+
+			E 1	H 0	G 0	
+
+		A 1	F#1	C#1	A 0	Dp3
+
+			E 1			
+
+		F#1	D 1	D 1	H 0	Tp
+
+				C#1	A 0	
+
+		G 1	D 1	H 0	G 0	S
+
+			E 1			
+
+	28	F#1	E 1	A 0	A 0	T5
+
+			D 1			
+
+		E 1		A 0	A -1	D  7
+
+			C#1	G 0		
+
+		D 1	A 0	F#0	D 0	T
+
+
+
+						T
+
+
+

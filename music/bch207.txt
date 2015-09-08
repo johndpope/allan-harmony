@@ -1,0 +1,185 @@
+Choralname = bch207
+Anzahl Stimmen = 4
+Tonart = G-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	G 1	D 1	B 0	G -1	t
+
+					A -1	
+
+		F 1	D 1	B 0	B -1	tP
+
+					C 0	
+
+		F 1	D 1	A 0	D 0	d
+
+				A 0		
+
+		G 1	D 1	G 0	E 0	S3
+
+			C 1			
+
+	2	A 1	C 1	F 0	F 0	dP
+
+			F 1	A 0		
+
+		G 1		B 0	G 0	S5 7
+
+			E 1			
+
+		F 1	D 1	H 0	Ab0	%
+
+
+
+		E 1		E 0	A 0	DD
+
+			C#1	A 0	A -1	
+				Ab0		
+	3	D 1	A 0	F 0	D 0	d
+
+
+
+						d
+
+
+
+						d
+
+
+
+2		F 1	D 1	A 0	D 0	d
+
+					C 0	
+
+	4	G 1	D 1	B 0	B -1	t3
+
+				G 0		
+
+		A 1	Eb1	C 1	F#-1	D3 7
+
+			D 1			
+
+		G 1	D 1	C 1	G -1	t
+
+				B 0		
+
+		F#1	D 1	A 0	D 0	D
+
+
+
+	5	G 1	D 1	B 0	G -1	t
+
+
+
+						t
+
+
+
+						t
+
+
+
+3		C 2	G 1	C 1	Eb0	s3
+
+			F 1		D 0	
+
+	6	G 1	Eb1	C 1	C 0	s
+
+		A 1				
+
+		B 1	D 1	D 1	G -1	t
+
+			G 1			
+
+		A 1	G 1	D 1	D 0	D
+
+			F#1			
+
+		G 1	G 1		Eb0	%
+
+			G 0	D 1		
+
+	7	A 1	D 1	F#0	D 0	D
+
+
+
+						D
+
+
+
+						D
+
+
+
+4		G 1	D 1	B 0	G -1	t
+
+			C#1			
+
+	8	F 1	D 1	A 0	D 0	d
+
+			F 1			
+
+		G 1	F 1	C 1	C 0	S
+
+			E 1			
+
+		A 1	F 1	C 1	F 0	dP
+
+					E 0	
+
+		G 1	E 1	B 0	D 0	t5
+
+					C#0	
+
+	9	F 1	E 1	A 0	D 0	d
+
+			D 1			
+
+		E 1		A 0	A -1	DD
+
+			C#1			
+				G 0		
+		D 1	A 0	F 0	D -1	d
+
+
+
+5		F 1	D 1	A 0	D 0	d
+
+					C 0	
+
+	10	G 1	D 1	B 0	B -1	t3
+
+					A -1	
+
+		A 1	Eb1	C 1	G -1	Vt  7
+
+					F#-1	
+
+		G 1	D 1	C 1	G -1	t
+
+				B 0		
+
+		F#1	D 1	A 0	D -1	D
+
+				C 1		
+
+	11	G 1	D 1	H 0	G -1	T
+
+
+
+						T
+
+
+
+						T
+
+
+
+						T
+
+
+

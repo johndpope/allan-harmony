@@ -1,0 +1,201 @@
+Choralname = bch148
+Anzahl Stimmen = 4
+Tonart = A-moll
+Takt = 4/4
+Tempo = 100
+Notentextausgabe in 16tel-Schritten:
+
+PHRASE	TAKT	SOPRAN	ALT	TENOR	BASS	HARMONIK
+
+1	1	E 1	H 0	G 0	E 0	d
+
+					D 0	
+
+		E 1	C 1	A 0	C 0	t3
+
+				G#0		
+
+		F#1	D 1	A 0	C 0	S7 7
+
+					D 0	
+
+		G#1	D 1	H 0	C 0	D5 7
+
+					H -1	
+
+	2	A 1	E 1	C 1	A -1	t
+
+					G -1	
+
+			D 1	H 0	F -1	s3
+
+				A 0		
+
+		G#1	E 1	H 0	E -1	D
+
+
+
+						D
+
+
+
+2	3	G#1	E 1	H 0	D 0	D7 7
+
+					F 0	
+
+		G#1	E 1	H 0	E 0	D7 7
+
+					D 0	
+
+		A 1	E 1	C 1	C 0	S  7
+
+			F#1		D 0	
+
+		H 1	G#1	D 1	C 0	D5 7
+
+					H -1	
+
+	4	C 2	A 1	E 1	A -1	t
+
+					H -1	
+
+					C 0	t3
+
+					D 0	
+
+		H 1	A 1	E 1	E 0	%
+
+
+
+			G#1			D
+
+
+
+3	5	C 2	G 1	E 1	E 0	tP3
+
+			F#1		D 0	
+
+		C 2	G 1	E 1	E 0	S3 7
+
+			A 1	D 1	F#0	
+
+		H 1	G 1	D 1	G 0	dP
+
+					F#0	
+
+		H 1	F 1	D 1	G 0	Vt  7
+
+					G#0	
+
+	6	A 1	E 1	D 1	A 0	t
+
+				C 1		
+
+			F#1		D#0	DD3
+
+				H 0		
+
+		G#1	E 1	H 0	E 0	D
+
+
+
+						D
+
+
+
+4	7	A 1	C 1	A 0	F 0	sP
+
+				G 0	E 0	
+
+		A 1	F 1	F 0	D 0	s
+
+			E 1		C 0	
+
+		G 1	D 1	G 0	H -1	dP3
+
+			C 1		A -1	
+
+		G 1	D 1	D 0	H -1	T3 7
+
+			E 1	A 0	C#0	
+
+	8	F 1	D 1	A 0	D 0	s
+
+					C 0	
+
+				G 0	H -1	dP3
+
+					G -1	
+
+		E 1	C 1	G 0	C 0	tP
+
+
+
+						tP
+
+
+
+5	9	E 2	G 1	C 1	C 0	tP
+
+					D 0	
+
+		E 2	G 1	C 1	E 0	tP3
+
+					F 0	
+
+		D 2	G 1	C 1	G 0	%
+
+					A 0	
+
+		D 2	G 1	H 0	H 0	dP3
+
+			F 1		G 0	
+
+	10	C 2	E 1	H 0	A -1	t
+
+					H -1	
+
+				A 0	C 0	t3
+
+					D 0	
+
+		H 1	E 1	A 0	E 0	%
+
+
+
+				G#0		D
+
+
+
+6	11	A 1	C 1	A 0	F -1	sP
+
+				H 0	G -1	
+
+		A 1	F 1	C 1	A -1	sP3
+
+					H -1	
+
+		G 1	F 1	C 1	C 0	%
+
+					D 0	
+
+		G 1	E 1	C 1	E 0	tP3
+
+				B 0	C 0	
+
+	12	F 1	E 1	A 0	D 0	s
+
+				C 1		
+
+			D 1	H 0		s
+
+			C 1	A 0		
+
+		E 1	H 0	G#0	E 0	D
+
+
+
+						D
+
+
+
