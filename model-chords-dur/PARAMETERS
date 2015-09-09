@@ -1,0 +1,8 @@
+Name: chords-dur
+Hidden: chordtransposed/HARMONIK
+Visible: SOPRAN
+
+Hidden states: 2815
+Visible states: 55
+Training data: train_dur
+Test data: test_dur
